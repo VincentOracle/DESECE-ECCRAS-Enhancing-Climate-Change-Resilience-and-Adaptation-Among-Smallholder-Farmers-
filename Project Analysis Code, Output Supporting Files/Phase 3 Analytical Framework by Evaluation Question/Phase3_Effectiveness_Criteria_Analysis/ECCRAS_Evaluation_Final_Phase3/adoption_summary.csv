@@ -1,0 +1,11 @@
+practice,n_resp,n_adopted,adoption_rate_pct,target_pct,gap_to_target_pct
+agroforestry_adopted,194,189,96.92,80.0,-16.92307692307692
+drought_varieties_adopted,195,173,88.72,80.0,-8.717948717948715
+crop_rotation_adopted,195,193,98.97,80.0,-18.974358974358978
+mulching_adopted,192,173,88.72,80.0,-8.717948717948715
+composting_adopted,195,192,98.46,80.0,-18.461538461538467
+water_harvesting_adopted,195,194,99.49,80.0,-19.48717948717949
+drip_irrigation_adopted,194,149,76.41,80.0,3.589743589743591
+kitchen_garden_adopted,195,193,98.97,80.0,-18.974358974358978
+food_forest_adopted,195,187,95.9,80.0,-15.897435897435898
+soil_conservation_adopted,195,180,92.31,80.0,-12.307692307692307

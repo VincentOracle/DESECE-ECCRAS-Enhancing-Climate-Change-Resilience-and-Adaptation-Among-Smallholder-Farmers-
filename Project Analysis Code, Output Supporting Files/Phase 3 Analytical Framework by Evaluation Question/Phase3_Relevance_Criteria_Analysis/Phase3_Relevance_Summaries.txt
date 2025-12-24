@@ -1,0 +1,62 @@
+PHASE 3 — EQ3 (Relevance) & EQ4 (Community-level change) SUMMARY
+================================================================================
+
+--- C1: Biggest Problem Before Project ---
+                Biggest Problem  Number of Respondents  Percent (%)
+0          Poor soil fertility                     59         30.3
+1              Low crop yields                     46         23.6
+2  Unreliable rainfall/Drought                     44         22.6
+3               Lack of income                     25         12.8
+4               Pests/Diseases                     12          6.2
+5                        Other                      9          4.6
+
+--- C2: How Well Problem Addressed ---
+                 biggest_problem problem_addressed  Percent (%)
+0                Lack of income         Very well         96.0
+1                Lack of income     Not very well          4.0
+2               Low crop yields         Very well         84.8
+3               Low crop yields     Somewhat well         15.2
+4                         Other         Very well         88.9
+5                         Other        Not at all         11.1
+6                Pests/Diseases         Very well         75.0
+7                Pests/Diseases     Somewhat well         25.0
+8           Poor soil fertility         Very well         78.0
+9           Poor soil fertility     Somewhat well         22.0
+10  Unreliable rainfall/Drought         Very well         90.9
+11  Unreliable rainfall/Drought     Somewhat well          6.8
+12  Unreliable rainfall/Drought     Not very well          2.3
+
+--- Rainwater Harvesting Adoption by Problem ---
+                biggest_problem  Number Adopting  Percent of Problem Group (%)
+0               Lack of income               25                         100.0
+1              Low crop yields               46                         100.0
+2                        Other                8                          88.9
+3               Pests/Diseases               12                         100.0
+4          Poor soil fertility               59                         100.0
+5  Unreliable rainfall/Drought               43                          97.7
+
+--- C3: Training Relevance ---
+     Training Relevance  Number of Respondents  Percent (%)
+0        Very relevant                    165         84.6
+1    Somewhat relevant                     29         14.9
+2  Not relevant at all                      1          0.5
+
+--- B7: More Farmers Using Practices ---
+   Observation of More Farmers  Number of Respondents  Percent (%)
+0              Yes, many more                    156         80.0
+1             Yes, a few more                     24         12.3
+2                  No changes                      5          2.6
+3                       Fewer                      5          2.6
+4                  Don't Know                      5          2.6
+
+--- C4: Shared Knowledge ---
+         Shared Knowledge  Number of Respondents  Percent (%)
+0    Yes, with many (5+)                    154         79.0
+1  Yes, with a few (1-4)                     30         15.4
+2                     No                     11          5.6
+
+--- C5: Neighbors Copying Practices ---
+   Neighbors Copying Practices  Number of Respondents  Percent (%)
+0       Yes, many are copying                    153         78.5
+1      Yes, a few are copying                     27         13.8
+2      No, not that I've seen                     15          7.7

@@ -1,0 +1,81 @@
+Phase 3 - EQ1 & EQ2: Effectiveness - Summary
+==========================================
+
+Data file: C:\Users\Hp\Downloads\ECCRAS EVALUATION MANAGEMENT\Analysis_Code_Output\DESECE_ECCRAS_Raw_Filtered.csv
+
+Note: 'Beneficiary_Status' disaggregation used 'primary_livelihood' as a proxy. Replace with actual beneficiary variable if available.
+
+1) Overall adoption rates (Top practices):
+        Practice_Variable  Responses  Adopted_count  Adoption_percent
+ water_harvesting_adopted        130            130            100.00
+    crop_rotation_adopted        130            129             99.23
+       composting_adopted        130            129             99.23
+   kitchen_garden_adopted        130            129             99.23
+     agroforestry_adopted        129            127             98.45
+      food_forest_adopted        130            125             96.15
+soil_conservation_adopted        130            121             93.08
+         mulching_adopted        127            117             92.13
+drought_varieties_adopted        130            118             90.77
+  drip_irrigation_adopted        129             98             75.97
+
+2) Adoption score (overall):
+count    130.000000
+mean       9.407692
+std        0.978023
+min        5.000000
+25%        9.000000
+50%       10.000000
+75%       10.000000
+max       10.000000
+Name: adoption_score, dtype: float64
+
+3) Adoption by Gender (Adoption %):
+        agroforestry_adopted_bin  drought_varieties_adopted_bin  crop_rotation_adopted_bin  mulching_adopted_bin  composting_adopted_bin  water_harvesting_adopted_bin  drip_irrigation_adopted_bin  kitchen_garden_adopted_bin  food_forest_adopted_bin  soil_conservation_adopted_bin
+Female                     97.73                          92.13                     100.00                 89.53                   98.88                         100.0                        76.14                       98.88                    96.63                          92.13
+Male                      100.00                          87.80                      97.56                 97.56                  100.00                         100.0                        75.61                      100.00                    95.12                          95.12
+
+4) Adoption by Age Group (Adoption %):
+       agroforestry_adopted_bin  drought_varieties_adopted_bin  crop_rotation_adopted_bin  mulching_adopted_bin  composting_adopted_bin  water_harvesting_adopted_bin  drip_irrigation_adopted_bin  kitchen_garden_adopted_bin  food_forest_adopted_bin  soil_conservation_adopted_bin
+18-25                    100.00                           0.00                     100.00                100.00                  100.00                         100.0                       100.00                      100.00                   100.00                         100.00
+26-35                    100.00                          78.57                     100.00                 92.86                  100.00                         100.0                        57.14                      100.00                   100.00                          92.86
+36-45                    100.00                         100.00                     100.00                100.00                  100.00                         100.0                        85.71                      100.00                    95.24                          95.24
+46-55                     97.44                          94.87                      97.44                 92.31                   97.44                         100.0                        82.05                       97.44                    97.44                          97.44
+56+                       98.15                          89.09                     100.00                 88.68                  100.00                         100.0                        72.22                      100.00                    94.55                          89.09
+
+5) Adoption by County (Adoption %):
+                agroforestry_adopted_bin  drought_varieties_adopted_bin  crop_rotation_adopted_bin  mulching_adopted_bin  composting_adopted_bin  water_harvesting_adopted_bin  drip_irrigation_adopted_bin  kitchen_garden_adopted_bin  food_forest_adopted_bin  soil_conservation_adopted_bin
+Bungoma County                     98.45                          90.77                      99.23                 92.13                   99.23                         100.0                        75.97                       99.23                    96.15                          93.08
+
+6) Income summary and Wilcoxon paired test (2021 vs 2025):
+{'2021_count': 114, '2021_median': 16750.0, '2021_mean': 40090.26315789474, '2025_count': 88, '2025_median': 30000.0, '2025_mean': 56785.420454545456}
+Wilcoxon result:
+{'n': 84, 'statistic': 1033.0, 'p_value': 0.0114732821276577, 'median_2021': 15500.0, 'median_2025': 32800.0}
+
+7) Top Knowledge items reported (counts):
+skill_rainwater            115.0
+skill_drought_crops         88.0
+skill_soil_conservation     73.0
+skill_agroecology           64.0
+skill_climate_planning      42.0
+skill_weather_access        23.0
+skill_none                   3.0
+skill_other                  0.0
+skill_other_specify          0.0
+
+8) Top Actions/Assets adopted (counts):
+action_water_system      120.0
+action_kitchen_garden     90.0
+action_soil_improve       85.0
+action_new_practice       60.0
+action_crop_diversify     55.0
+action_group_join         54.0
+action_drought_plan       15.0
+action_other               1.0
+action_none                0.0
+action_other_specify       0.0
+
+9) Cookstove summary (if present):
+Stove received (overall count): 99
+Stove used (overall count): 84.0
+
+End of Section 3 summary.

@@ -1,0 +1,12 @@
+Barriers
+Generated: 2025-11-11T06:10:00.786443
+
+Barrier frequencies (count of 'Yes'):
+barrier_cost                0
+barrier_labor               0
+barrier_knowledge           0
+barrier_climate             0
+barrier_pests               0
+barrier_water               0
+barrier_conflict            0
+barrier_challenges_other    0

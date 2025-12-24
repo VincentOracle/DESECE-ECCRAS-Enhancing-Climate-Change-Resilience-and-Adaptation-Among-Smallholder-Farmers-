@@ -1,0 +1,13 @@
+ChiSquares
+Generated: 2025-11-11T06:10:00.785425
+
+Chi-square: agroforestry_adopted by gender -> chi2=0.315, p=0.57490, dof=1
+Chi-square: drought_varieties_adopted by gender -> chi2=0.218, p=0.64087, dof=1
+Chi-square: crop_rotation_adopted by gender -> chi2=0.159, p=0.69001, dof=1
+Chi-square: mulching_adopted by gender -> chi2=2.676, p=0.10188, dof=1
+Chi-square: composting_adopted by gender -> chi2=0.000, p=1.00000, dof=1
+Skipping chi2 for water_harvesting_adopted: contingency table not >=2x2
+Chi-square: drip_irrigation_adopted by gender -> chi2=0.000, p=1.00000, dof=1
+Chi-square: kitchen_garden_adopted by gender -> chi2=0.000, p=1.00000, dof=1
+Chi-square: food_forest_adopted by gender -> chi2=0.000, p=1.00000, dof=1
+Chi-square: soil_conservation_adopted by gender -> chi2=0.063, p=0.80130, dof=1

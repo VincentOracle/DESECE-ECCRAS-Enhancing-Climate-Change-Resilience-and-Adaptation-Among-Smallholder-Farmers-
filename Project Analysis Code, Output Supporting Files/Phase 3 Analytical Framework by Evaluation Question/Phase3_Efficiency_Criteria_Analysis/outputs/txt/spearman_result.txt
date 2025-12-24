@@ -1,0 +1,4 @@
+Spearman
+Generated: 2025-11-11T06:10:00.785425
+
+Spearman correlation between adoption_score and income_change_absolute (n=84): rho=0.062, p=0.57685

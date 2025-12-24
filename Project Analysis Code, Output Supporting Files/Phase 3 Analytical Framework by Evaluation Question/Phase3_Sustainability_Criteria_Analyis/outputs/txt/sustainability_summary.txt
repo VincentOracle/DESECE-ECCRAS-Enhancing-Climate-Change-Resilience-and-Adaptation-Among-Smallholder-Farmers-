@@ -1,0 +1,72 @@
+=== Cross-tab: Perceived Benefit vs Intent to Continue ===
+continue_practice      Definitely yes  Probably yes    All
+better_than_old                                           
+ Yes, a little better             1.5           2.3    3.8
+Yes, much better                 96.2           0.0   96.2
+All                              97.7           2.3  100.0
+
+Percentage of respondents who find practices better and definitely plan to continue: 0.0%
+
+=== Risks to Sustainability: Barriers to Continuation ===
+barrier_continue_list
+Nothing will stop me                                                                                                      54.9
+Equipment breaks                                                                                                           7.8
+Lack of money for inputs                                                                                                   6.5
+no way to repair                                                                                                           6.5
+No market for the produce                                                                                                  5.2
+Lack of money for inputs Equipment breaks                                                                                  4.6
+no way to repair Lack of money for inputs                                                                                  3.3
+no way to repair No one to ask for advice No market for the produce                                                        2.0
+Nothing will stop me Equipment breaks                                                                                      1.3
+no way to repair Nothing will stop me                                                                                      1.3
+It takes too much labour/time                                                                                              0.7
+Lack of money for inputs Nothing will stop me Equipment breaks                                                             0.7
+Lack of money for inputs Nothing will stop me                                                                              0.7
+Lack of money for inputs Nothing will stop me It takes too much labour/time No market for the produce Equipment breaks     0.7
+no way to repair Lack of money for inputs No market for the produce                                                        0.7
+no way to repair No market for the produce                                                                                 0.7
+no way to repair No one to ask for advice                                                                                  0.7
+Other                                                                                                                      0.7
+Lack of money for inputs No market for the produce No one to ask for advice                                                0.7
+Lack of money for inputs No one to ask for advice                                                                          0.7
+Name: proportion, dtype: float64
+
+=== Sources of Future Advice ===
+sources_of_advice_list
+My farmer group                                                                            70.8
+My farmer group Other successful farmers                                                   12.3
+My farmer group  Other                                                                      4.6
+Other                                                                                       3.1
+My farmer group Other successful farmers Local agro-dealer                                  1.5
+Other Government extension officer                                                          1.5
+Local agro-dealer Other successful farmers                                                  0.8
+I don't know where to go                                                                    0.8
+My farmer group Government extension officer Local agro-dealer Other successful farmers     0.8
+Other successful farmers My farmer group Government extension officer                       0.8
+My farmer group Other successful farmers Government extension officer Local agro-dealer     0.8
+My farmer group Government extension officer                                                0.8
+Other successful farmers My farmer group                                                    0.8
+I don't know where to go Local agro-dealer                                                  0.8
+Name: proportion, dtype: float64
+
+=== Group Functionality ===
+group_functioning
+Very active (meets regularly, has plans)    73.8
+Somewhat active (meets sometimes)           23.8
+Not active (seldom meets, no plans)          1.5
+Group is no longer together                  0.8
+Name: proportion, dtype: float64
+
+=== Group Sustainability Plan ===
+group_plan
+Yes, a clear plan (if yes, what plans; savings, registered co-op etc.)    69.2
+Yes, but the plan is not clear                                            17.7
+No plan                                                                   10.0
+Don't know                                                                 3.1
+Name: proportion, dtype: float64
+
+=== Perceived Benefit by Intention to Continue (%) ===
+continue_practice      Definitely yes  Probably yes
+better_than_old                                    
+ Yes, a little better            40.0          60.0
+Yes, much better                100.0           0.0

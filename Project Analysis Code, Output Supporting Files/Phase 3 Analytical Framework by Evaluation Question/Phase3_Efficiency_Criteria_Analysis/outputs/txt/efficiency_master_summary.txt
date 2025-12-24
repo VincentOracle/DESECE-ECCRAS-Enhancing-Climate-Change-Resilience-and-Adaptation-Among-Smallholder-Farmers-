@@ -1,0 +1,68 @@
+=== PRACTICE ADOPTION SUMMARY ===
+                    Practice  Number Adopting  Percent (%)
+0       agroforestry_adopted            127.0         97.7
+1  drought_varieties_adopted            118.0         90.8
+2      crop_rotation_adopted            129.0         99.2
+3           mulching_adopted            117.0         90.0
+4         composting_adopted            129.0         99.2
+5   water_harvesting_adopted            130.0        100.0
+6    drip_irrigation_adopted             98.0         75.4
+7     kitchen_garden_adopted            129.0         99.2
+8  soil_conservation_adopted            121.0         93.1
+
+=== KNOWLEDGE SOURCES (Training Efficiency) ===
+           Knowledge Source  Number of Respondents  Percent (%)
+0        source_demo_DESECE                    4.0          3.1
+1    source_training_DESECE                  126.0         96.9
+2  source_training_otherNGO                    0.0          0.0
+3        source_gov_officer                    3.0          2.3
+4              source_media                    9.0          6.9
+5             source_family                    6.0          4.6
+6          source_neighbour                    8.0          6.2
+
+=== INTENSITY / SCALE OF USE SUMMARY ===
+   Practice/Resource Use  Average Quantity/Area
+0  Compost (bags/season)              12.883721
+1   Manure (bags/season)              11.468254
+2    Cover Crops (acres)               0.638347
+3   Zero Tillage (acres)               0.576014
+4  Crop Rotation (acres)               0.714619
+
+=== PERCEIVED EFFECTIVENESS OF PRACTICES ===
+                                compost_effect  manure_effect  cover_crops_effect  zero_tillage_effect  crop_rotation_effect  rainwater_effect  drip_irrigation_effect  \
+Neither positive nor negative              NaN            NaN                 1.5                  3.1                   NaN               NaN                     8.5   
+Neither positive nor negative              0.8            NaN                 NaN                  NaN                   NaN               NaN                     NaN   
+Not Applicable                             0.8            1.5                 NaN                 24.6                   NaN               NaN                    22.3   
+Not Applicable                             NaN            NaN                 NaN                  NaN                   NaN               NaN                     NaN   
+Somewhat negative                          NaN            NaN                 NaN                  1.5                   NaN               NaN                     NaN   
+Somewhat positive                          NaN            1.5                 6.9                 21.5                  10.8              10.0                    19.2   
+Somewhat positive                          2.3            NaN                 NaN                  NaN                   NaN               NaN                     NaN   
+Very negative                              NaN            NaN                 NaN                  NaN                   NaN               NaN                     NaN   
+Very positive                             96.2           96.9                91.5                 49.2                  89.2              90.0                    50.0   
+
+                                mulching_effect  zai_pits_effect  drought_varieties_effect  early_varieties_effect  intercropping_effect  kitchen_garden_effect  \
+Neither positive nor negative               NaN              7.7                       1.5                     0.8                   1.5                    NaN   
+Neither positive nor negative               NaN              NaN                       NaN                     NaN                   NaN                    NaN   
+Not Applicable                              NaN             29.2                       8.5                     NaN                   1.5                    0.8   
+Not Applicable                              6.9              NaN                       NaN                     NaN                   NaN                    NaN   
+Somewhat negative                           NaN              NaN                       NaN                     NaN                   1.5                    NaN   
+Somewhat positive                           6.9             13.8                      17.7                     8.5                  13.8                    0.8   
+Somewhat positive                           NaN              NaN                       NaN                     NaN                   NaN                    NaN   
+Very negative                               NaN              NaN                       NaN                     NaN                   0.8                    NaN   
+Very positive                              86.2             49.2                      72.3                    90.8                  80.8                   98.5   
+
+                                food_forest_effect  trees_effect  vegetation_strip_effect  IPM_effect  
+Neither positive nor negative                  NaN           2.3                      3.1         2.3  
+Neither positive nor negative                  NaN           NaN                      NaN         NaN  
+Not Applicable                                 3.1           2.3                     23.8        10.0  
+Not Applicable                                 NaN           NaN                      NaN         NaN  
+Somewhat negative                              NaN           0.8                      NaN         NaN  
+Somewhat positive                              3.8           6.2                     14.6        11.5  
+Somewhat positive                              NaN           NaN                      NaN         NaN  
+Very negative                                  NaN           NaN                      0.8         NaN  
+Very positive                                 93.1          88.5                     57.7        76.2  
+
+=== CONTINUATION OF PRACTICES (Sustainability Indicator) ===
+         Response  Percent (%)
+0  Definitely yes         97.7
+1    Probably yes          2.3

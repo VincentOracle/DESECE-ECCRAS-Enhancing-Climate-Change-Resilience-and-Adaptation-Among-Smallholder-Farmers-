@@ -1,0 +1,268 @@
+Phase 1: ECCRAS Project Data Cleaning & Preparation Script
+
+Raw Data Shape: (937, 290)
+Columns: ['enumerator_name', 'county_name', 'sublocation_bungoma', 'sublocation_trans_nzoia', 'location_name', 'respondent_name', 'gender', 'age', 'primary_livelihood', 'primary_livelihood_other', 'agroforestry_heard', 'agroforestry_adopted', 'drought_varieties_heard', 'drought_varieties_adopted', 'crop_rotation_heard', 'crop_rotation_adopted', 'mulching_heard', 'mulching_adopted', 'composting_heard', 'composting_adopted', 'water_harvesting_heard', 'water_harvesting_adopted', 'drip_irrigation_heard', 'drip_irrigation_adopted', 'kitchen_garden_heard', 'kitchen_garden_adopted', 'food_forest_heard', 'food_forest_adopted', 'soil_conservation_heard', 'soil_conservation_adopted', 'knowledge_sources', 'source_neighbour', 'source_family', 'source_demo_DESECE', 'source_training_DESECE', 'source_training_otherNGO', 'source_gov_officer', 'source_media', 'source_other', 'source_demo_otherNGO_specify', 'source_trainings_otherNGO_specify', 'compost_use_bags', 'compost_use_bags_quantity_per_season', 'manure_use_bags', 'manure_use_bags_quantity_per_season', 'cover_crops_acres', 'acres_under_cover_crops', 'zero_tillage_acres', 'zero_tillage_acres_under_cover', 'crop_rotation_acres', 'acres_under_crop_rotation', 'rain_water_harvesting_roof_ponds', 'rainwater_tanks', 'drip_irrigation', 'drip_irrigation_acres', 'mulching', 'mulching_acres', 'zai_planting_pits', 'zai_pits_number', 'drought_crop_varieties', 'drought_varieties_acres', 'early_crop_varieties', 'early_varieties_acres', 'intercropping', 'intercropping_acres', 'kitchen_garden', 'kitchen_garden_m2', 'food_forest', 'food_forest_acres', 'trees_planted', 'trees_planted_number', 'vegetation_strip', 'vegetation_strip_meters', 'IPM', 'IPM_acres', 'most_important_practice', 'start_date_practice', 'compost_effect', 'manure_effect', 'cover_crops_effect', 'zero_tillage_effect', 'crop_rotation_effect', 'rainwater_effect', 'drip_irrigation_effect', 'mulching_effect', 'zai_pits_effect', 'drought_varieties_effect', 'early_varieties_effect', 'intercropping_effect', 'kitchen_garden_effect', 'food_forest_effect', 'trees_effect', 'vegetation_strip_effect', 'IPM_effect', 'more_farmers_adopting', 'crop_diversity_now', 'new_crops', 'top3_crops_sold_2021_yes_no', 'top3_crops_sold_2021', 'total_qty_sold_2021', 'avg_price_unit_2021', 'est_income_2021', 'sold_2021', 'top3_crops_sold_2025_yes_no', 'top3_crops_sold_2025', ' total_amount_sold', 'total_qty_sold_2025', 'avg_price_unit_2025', 'est_income_2025', 'income_change', 'reasons_income_increase', 'income_increase_sold_more', 'income_increase_new_crops', 'income_increase_better_price', 'income_increase_processed', 'income_increase_seedlings', 'income_increase_other', 'income_increase_other_specify', 'income_decrease_lower_yield', 'income_decrease_pests', 'income_decrease_market', 'income_decrease_price', 'income_decrease_input_costs', 'income_decrease_assets', 'income_decrease_other', 'eccras_contribution_income', 'rainwater_system', 'rainwater_dry_impact', 'climate_preparedness', 'why_less_prepared', 'Knowledge_skills_gained_list', 'skill_rainwater', 'skill_drought_crops', 'skill_soil_conservation', 'skill_agroecology', 'skill_climate_planning', 'skill_weather_access', 'skill_none', 'skill_other', 'skill_other_specify', 'actions_assets_adopted_list', 'action_water_system', 'action_crop_diversify', 'action_soil_improve', 'action_kitchen_garden', 'action_new_practice', 'action_group_join', 'action_drought_plan', 'action_none', 'action_other', 'action_other_specify', 'future_confidence', 'climate_worry', 'climate_worry_other', 'enablers_to_adopt', 'enabler_training', 'enabler_project_support', 'enabler_demo', 'enabler_group_support', 'enabler_results', 'enabler_inputs', 'enabler_other', 'enabler_other.1', 'enabler_other_specify', 'challenges_list', 'barrier_cost', 'barrier_labor', 'barrier_knowledge', 'barrier_climate', 'barrier_pests', 'barrier_water', 'barrier_conflict', 'barrier_challenges_other', 'barrier_more_labour_time', 'barrier_challenges_other.1', 'barrier_challenges_other_specify', 'external_support', 'participation_equality', 'participation_equality_differences\xa0', 'decision_making', 'inclusion_vulnerable', 'biggest_problem', 'biggest_problem_other', 'problem_addressed', 'training_relevance', 'training_missing', 'training_what_was_missing', 'shared_knowledge', 'shared_content', 'neighbors_copy', 'neighbors_example', 'better_than_old', 'reason_better', 'continue_practice', 'barrier_continue_list', 'barrier_continue_money', 'barrier_continue_equipment', 'barrier_continue_advice', 'barrier_continue_market', 'barrier_continue_labor', 'barrier_continue_none', 'barrier_continue_other', 'barrier_continue_other_specify', 'group_functioning', 'group_plan', 'sources_of_advice_list', 'advice_group', 'advice_gov', 'advice_agrodealer', 'advice_otherfarmers', 'advice_unknown', 'advice_other', 'advice_other_specify', 'future_project_focus_list', 'future_market', 'future_irrigation', 'future_loans', 'future_training', 'future_youth', 'future_other', 'future_other_specify', 'proj_effective_part', 'proj_effective_part_other', 'proj_effective_reason', 'proj_least_effective_part', 'proj_least_effective_part_other', 'proj_improvement_suggestion', 'project_inclusive_list', 'inclusive_sufficient', 'inclusive_other', 'inclusive_meet_convenient', 'inclusive_childcare', 'inclusive_affordable_materials', 'inclusive_sessions_youth', 'inclusive_other_specify', 'supports_needed_list', 'support_business_training', 'support_grant_or_loan', 'support_market_linkages', 'support_leadership_training', 'support_coop_registration', 'support_none_self_reliant', 'project_advice', 'health_risk_heard', 'impact_awareness_list', 'health_impact_health', 'health_impact_env', 'health_impact_other', 'health_impact_other_specify', 'impact_ource_of_awareness_list', 'health_source_ECCRAS', 'health_source_NGO', 'health_source_gov', 'health_source_media', 'health_source_friend', 'health_source_other', 'health_source_other_specify', 'stove_received', 'stove_number', 'stove_visible', 'stove_used_signs', 'stove_used', 'stove_freq', 'reasons_not_using_stove_list', 'stove_reason_broken', 'stove_reason_fuel', 'stove_reason_pref', 'stove_reason_small', 'stove_reason_other', 'stove_reason_other_specify', 'participated_stove_training', 'participated_briquette_training', 'making_briquettes', 'reasons_not_making_briquettes_list', 'briquette_reason_material', 'briquette_reason_time', 'briquette_reason_equipment', 'briquette_reason_cost', 'briquette_reason_benefit', 'briquette_reason_other', 'briquette_reason_other_specify', 'briquette_no_participation', 'briquette_no_participation_other_specify', 'consent_form_url', 'location_full', 'location_altitude', 'location_longitude', '_Record your current location_altitude', 'location_precision', 'Closing']
+Sample Rows:
+     enumerator_name     county_name sublocation_bungoma  \
+0  Roselyne Wanyonyi  Bungoma County            Mt Elgon   
+1     Mercy Kiplagat  Bungoma County            Mt Elgon   
+2     Bahati Laureen  Bungoma County            Mt Elgon   
+
+  sublocation_trans_nzoia location_name         respondent_name  gender  \
+0                     NaN      Mt Elgon  Mickel Muketa Natembea    Male   
+1                     NaN      Masindet         Phyllis Naliaka  Female   
+2                     NaN       Chemoge            Mercy Ndiema  Female   
+
+      age primary_livelihood primary_livelihood_other  ...  \
+0   46-55      Crop farming                       NaN  ...   
+1  26-35       Crop farming                       NaN  ...   
+2  26-35    Crop & Livestock                      NaN  ...   
+
+  briquette_reason_other_specify  \
+0                            NaN   
+1                            NaN   
+2                            NaN   
+
+                          briquette_no_participation  \
+0                    Did not hear about the training   
+1          Training was held at an inconvenient time   
+2  Household responsibilities/other commitments p...   
+
+  briquette_no_participation_other_specify  \
+0                                      NaN   
+1                                      NaN   
+2                                      NaN   
+
+                                    consent_form_url  \
+0  https://kf.kobotoolbox.org/api/v2/assets/a2jMy...   
+1  https://kf.kobotoolbox.org/api/v2/assets/a2jMy...   
+2  https://kf.kobotoolbox.org/api/v2/assets/a2jMy...   
+
+                                  location_full location_altitude  \
+0                 0.833635 34.747328 1709.7 5.0          0.833635   
+1  0.8355639 34.7346469 1730.193115234375 4.869          0.835564   
+2           0.8471153 34.7355545 1893.356 1.189          0.847115   
+
+  location_longitude _Record your current location_altitude  \
+0          34.747328                            1709.700000   
+1          34.734647                            1730.193115   
+2          34.735554                            1893.356000   
+
+  location_precision                                            Closing  
+0              5.000  Closing: "Thank you so much for your time and ...  
+1              4.869                                                NaN  
+2              1.189                                                NaN  
+
+[3 rows x 290 columns]
+Filtered Raw Data Shape (3 sub-locations): (130, 290)
+Missing values per column: sublocation_trans_nzoia                     130
+primary_livelihood_other                    130
+agroforestry_heard                            1
+agroforestry_adopted                          1
+crop_rotation_heard                           1
+                                           ... 
+briquette_reason_benefit                    105
+briquette_reason_other                      105
+briquette_reason_other_specify              128
+briquette_no_participation_other_specify     99
+Closing                                     129
+Length: 110, dtype: int64 
+
+
+# Phase 2: Descriptive Analysis - ECCRAS Project
+Unique age groups: ['46-55' '26-35' '56+' '36-45' '18-25']
+Gender Distribution (%)
+ gender
+Female    68.461538
+Male      31.538462
+Name: proportion, dtype: float64
+
+Age Group Distribution (%)
+ age
+56+      42.307692
+46-55    30.000000
+36-45    16.153846
+26-35    10.769231
+18-25     0.769231
+Name: proportion, dtype: float64
+
+County Distribution (%)
+ county_name
+Bungoma County    100.0
+Name: proportion, dtype: float64
+
+Beneficiary Status (%)
+ primary_livelihood
+Crop & Livestock     53.846154
+Crop farming         45.384615
+Livestock rearing     0.769231
+Name: proportion, dtype: float64
+
+
+Adoption rate for agroforestry_adopted:
+ agroforestry_adopted
+Yes    98.449612
+No      1.550388
+Name: proportion, dtype: float64
+
+Adoption rate for drought_varieties_adopted:
+ drought_varieties_adopted
+Yes    90.769231
+No      9.230769
+Name: proportion, dtype: float64
+
+Adoption rate for crop_rotation_adopted:
+ crop_rotation_adopted
+Yes    99.230769
+No      0.769231
+Name: proportion, dtype: float64
+
+Adoption rate for mulching_adopted:
+ mulching_adopted
+Yes    92.125984
+No      7.874016
+Name: proportion, dtype: float64
+
+Adoption rate for composting_adopted:
+ composting_adopted
+Yes    99.230769
+No      0.769231
+Name: proportion, dtype: float64
+
+Adoption rate for water_harvesting_adopted:
+ water_harvesting_adopted
+Yes    100.0
+Name: proportion, dtype: float64
+
+Adoption rate for drip_irrigation_adopted:
+ drip_irrigation_adopted
+Yes    75.968992
+No     24.031008
+Name: proportion, dtype: float64
+
+Adoption rate for kitchen_garden_adopted:
+ kitchen_garden_adopted
+Yes    99.230769
+No      0.769231
+Name: proportion, dtype: float64
+
+Adoption rate for food_forest_adopted:
+ food_forest_adopted
+Yes    96.153846
+No      3.846154
+Name: proportion, dtype: float64
+
+Adoption rate for soil_conservation_adopted:
+ soil_conservation_adopted
+Yes    93.076923
+No      6.923077
+Name: proportion, dtype: float64
+
+agroforestry_adopted adoption by gender:
+agroforestry_adopted        No         Yes
+gender                                    
+Female                2.272727   97.727273
+Male                  0.000000  100.000000
+
+Adoption Rates by Gender (%):
+
+        agroforestry_adopted  drought_varieties_adopted  \
+gender                                                    
+Female                  97.2                       88.8   
+Male                    98.1                       88.5   
+
+        crop_rotation_adopted  mulching_adopted  composting_adopted  \
+gender                                                                
+Female                   99.3              87.9                97.9   
+Male                     98.1              96.2               100.0   
+
+        water_harvesting_adopted  drip_irrigation_adopted  \
+gender                                                      
+Female                      99.3                     78.2   
+Male                       100.0                     73.1   
+
+        kitchen_garden_adopted  food_forest_adopted  soil_conservation_adopted  
+gender                                                                          
+Female                    98.6                 95.8                       91.6  
+Male                     100.0                 96.2                       94.2  
+
+Adoption Rates by County (%):
+
+                    agroforestry_adopted  drought_varieties_adopted  \
+county_name                                                           
+Bungoma County                      98.4                       90.8   
+Trans Nzoia County                  95.4                       84.6   
+
+                    crop_rotation_adopted  mulching_adopted  \
+county_name                                                   
+Bungoma County                       99.2              92.1   
+Trans Nzoia County                   98.5              86.2   
+
+                    composting_adopted  water_harvesting_adopted  \
+county_name                                                        
+Bungoma County                    99.2                     100.0   
+Trans Nzoia County                96.9                      98.5   
+
+                    drip_irrigation_adopted  kitchen_garden_adopted  \
+county_name                                                           
+Bungoma County                         76.0                    99.2   
+Trans Nzoia County                     78.5                    98.5   
+
+                    food_forest_adopted  soil_conservation_adopted  
+county_name                                                         
+Bungoma County                     96.2                       93.1  
+Trans Nzoia County                 95.4                       90.8  
+
+drought_varieties_adopted adoption by gender:
+drought_varieties_adopted         No        Yes
+gender                                         
+Female                      7.865169  92.134831
+Male                       12.195122  87.804878
+
+crop_rotation_adopted adoption by gender:
+crop_rotation_adopted        No         Yes
+gender                                     
+Female                 0.000000  100.000000
+Male                   2.439024   97.560976
+
+mulching_adopted adoption by gender:
+mulching_adopted         No        Yes
+gender                                
+Female            10.465116  89.534884
+Male               2.439024  97.560976
+
+composting_adopted adoption by gender:
+composting_adopted        No         Yes
+gender                                  
+Female              1.123596   98.876404
+Male                0.000000  100.000000
+
+water_harvesting_adopted adoption by gender:
+water_harvesting_adopted    Yes
+gender                         
+Female                    100.0
+Male                      100.0
+
+drip_irrigation_adopted adoption by gender:
+drip_irrigation_adopted         No        Yes
+gender                                       
+Female                   23.863636  76.136364
+Male                     24.390244  75.609756
+
+kitchen_garden_adopted adoption by gender:
+kitchen_garden_adopted        No         Yes
+gender                                      
+Female                  1.123596   98.876404
+Male                    0.000000  100.000000
+
+food_forest_adopted adoption by gender:
+food_forest_adopted        No        Yes
+gender                                  
+Female               3.370787  96.629213
+Male                 4.878049  95.121951
+
+soil_conservation_adopted adoption by gender:
+soil_conservation_adopted        No        Yes
+gender                                        
+Female                     7.865169  92.134831
+Male                       4.878049  95.121951

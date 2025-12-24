@@ -1,0 +1,17 @@
+Diagnostics
+Generated: 2025-11-11T06:10:00.471312
+
+EFFICIENCY ANALYSIS - Data diagnostics
+
+Total rows: 130
+Practices found (10): ['agroforestry_adopted', 'drought_varieties_adopted', 'crop_rotation_adopted', 'mulching_adopted', 'composting_adopted', 'water_harvesting_adopted', 'drip_irrigation_adopted', 'kitchen_garden_adopted', 'food_forest_adopted', 'soil_conservation_adopted']
+Enablers found (7): ['enabler_training', 'enabler_project_support', 'enabler_demo', 'enabler_group_support', 'enabler_results', 'enabler_inputs', 'enabler_other']
+Barriers found (8): ['barrier_cost', 'barrier_labor', 'barrier_knowledge', 'barrier_climate', 'barrier_pests', 'barrier_water', 'barrier_conflict', 'barrier_challenges_other']
+Perceived effect fields found (17): ['compost_effect', 'manure_effect', 'cover_crops_effect', 'zero_tillage_effect', 'crop_rotation_effect', 'rainwater_effect', 'drip_irrigation_effect', 'mulching_effect', 'zai_pits_effect', 'drought_varieties_effect', 'early_varieties_effect', 'intercropping_effect', 'kitchen_garden_effect', 'food_forest_effect', 'trees_effect', 'vegetation_strip_effect', 'IPM_effect']
+Missing flags:
+practices_missing: []
+enablers_missing: []
+barriers_missing: []
+perceived_missing: []
+income_before_missing: False
+income_after_missing: False

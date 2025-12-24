@@ -1,0 +1,4 @@
+Wilcoxon
+Generated: 2025-11-11T06:10:00.785425
+
+Wilcoxon signed-rank test on paired incomes (n=84): W=1033.000, p=0.01147

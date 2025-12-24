@@ -1,0 +1,11 @@
+Enablers
+Generated: 2025-11-11T06:10:00.786443
+
+Enabler frequencies (count of 'Yes'):
+enabler_training           0
+enabler_project_support    0
+enabler_demo               0
+enabler_group_support      0
+enabler_results            0
+enabler_inputs             0
+enabler_other              0

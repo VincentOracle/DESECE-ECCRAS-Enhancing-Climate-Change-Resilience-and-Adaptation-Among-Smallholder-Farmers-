@@ -1,0 +1,4725 @@
+
+
+==== source_family_overall ====
+
+ count     mean  median  min  max      std
+ 194.0 0.041237     0.0  0.0  1.0 0.199353
+
+==== source_family_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    142 0.049296     0.0  0.0  1.0 0.217251
+  Male     52 0.019231     0.0  0.0  1.0 0.138675
+
+==== source_family_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      17 0.000000     0.0  0.0  0.0 0.000000
+    36-45     29 0.103448     0.0  0.0  1.0 0.309934
+    46-55     62 0.048387     0.0  0.0  1.0 0.216335
+      56+     85 0.023529     0.0  0.0  1.0 0.152477
+
+==== source_family_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.046154     0.0  0.0  1.0 0.210630
+Trans Nzoia County     64 0.031250     0.0  0.0  1.0 0.175368
+
+==== source_family_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.022472     0.0  0.0  1.0 0.149052
+     Crop farming     103 0.058252     0.0  0.0  1.0 0.235365
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== source_family_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.046154     0.0  0.0  1.0 0.211451
+                       Mt Elgon     65 0.046154     0.0  0.0  1.0 0.211451
+               Trans-Nzoia West     64 0.031250     0.0  0.0  1.0 0.175368
+
+==== source_training_otherngo_overall ====
+
+ count  mean  median  min  max  std
+ 194.0   0.0     0.0  0.0  0.0  0.0
+
+==== source_training_otherngo_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    142   0.0     0.0  0.0  0.0  0.0
+  Male     52   0.0     0.0  0.0  0.0  0.0
+
+==== source_training_otherngo_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0  0.0  0.0  NaN
+   26-35      17   0.0     0.0  0.0  0.0  0.0
+    36-45     29   0.0     0.0  0.0  0.0  0.0
+    46-55     62   0.0     0.0  0.0  0.0  0.0
+      56+     85   0.0     0.0  0.0  0.0  0.0
+
+==== source_training_otherngo_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    130   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County     64   0.0     0.0  0.0  0.0  0.0
+
+==== source_training_otherngo_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     89   0.0     0.0  0.0  0.0  0.0
+     Crop farming     103   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      1   0.0     0.0  0.0  0.0  NaN
+   Other (specify)      1   0.0     0.0  0.0  0.0  NaN
+
+==== source_training_otherngo_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     65   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     65   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West     64   0.0     0.0  0.0  0.0  0.0
+
+==== source_other_overall ====
+
+ count  mean  median  min  max  std
+ 194.0   0.0     0.0  0.0  0.0  0.0
+
+==== source_other_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    142   0.0     0.0  0.0  0.0  0.0
+  Male     52   0.0     0.0  0.0  0.0  0.0
+
+==== source_other_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0  0.0  0.0  NaN
+   26-35      17   0.0     0.0  0.0  0.0  0.0
+    36-45     29   0.0     0.0  0.0  0.0  0.0
+    46-55     62   0.0     0.0  0.0  0.0  0.0
+      56+     85   0.0     0.0  0.0  0.0  0.0
+
+==== source_other_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    130   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County     64   0.0     0.0  0.0  0.0  0.0
+
+==== source_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     89   0.0     0.0  0.0  0.0  0.0
+     Crop farming     103   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      1   0.0     0.0  0.0  0.0  NaN
+   Other (specify)      1   0.0     0.0  0.0  0.0  NaN
+
+==== source_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     65   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     65   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West     64   0.0     0.0  0.0  0.0  0.0
+
+==== compost_use_bags_quantity_per_season_overall ====
+
+ count      mean  median  min   max       std
+ 192.0 11.411979     7.5  0.2 100.0 13.757827
+
+==== compost_use_bags_quantity_per_season_by_gender ====
+
+gender  count      mean  median  min   max       std
+Female    140 10.043571     7.0  0.2  50.0  9.750700
+  Male     52 15.096154     9.0  1.0 100.0 20.754645
+
+==== compost_use_bags_quantity_per_season_by_age_group ====
+
+age_group  count      mean  median  min   max       std
+    18-25      1  8.000000     8.0  8.0   8.0       NaN
+   26-35      18  8.833333     5.5  2.0  40.0  9.030992
+    36-45     29 11.100000    10.0  0.9  33.0  9.275005
+    46-55     61 11.786885     8.0  1.0 100.0 15.220726
+      56+     83 11.845783     6.0  0.2 100.0 14.938192
+
+==== compost_use_bags_quantity_per_season_by_county_name ====
+
+       county_name  count      mean  median  min   max       std
+    Bungoma County    129 12.883721    10.0  1.0 100.0 13.336175
+Trans Nzoia County     63  8.398413     5.0  0.2 100.0 14.219052
+
+==== compost_use_bags_quantity_per_season_by_primary_livelihood ====
+
+primary_livelihood  count      mean  median  min   max       std
+  Crop & Livestock     88 14.863636    10.0  1.0 100.0 15.479450
+     Crop farming     102  8.451961     5.0  0.2 100.0 11.484563
+ Livestock rearing      1 15.000000    15.0 15.0  15.0       NaN
+   Other (specify)      1  6.000000     6.0  6.0   6.0       NaN
+
+==== compost_use_bags_quantity_per_season_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count      mean  median  min   max       std
+                         Bumula     65 14.461538    10.0  1.0 100.0 15.403000
+                       Mt Elgon     64 11.281250     9.5  1.0  50.0 10.731157
+               Trans-Nzoia West     63  8.398413     5.0  0.2 100.0 14.219052
+
+==== manure_use_bags_quantity_per_season_overall ====
+
+ count      mean  median  min   max       std
+ 184.0 10.507609     6.0  0.0 125.0 13.942848
+
+==== manure_use_bags_quantity_per_season_by_gender ====
+
+gender  count      mean  median  min   max       std
+Female    133 10.589474     6.0  0.0 125.0 15.378543
+  Male     51 10.294118     6.0  1.0  50.0  9.332297
+
+==== manure_use_bags_quantity_per_season_by_age_group ====
+
+age_group  count      mean  median  min   max       std
+    18-25      1  8.000000     8.0  8.0   8.0       NaN
+   26-35      18  8.277778     5.0  1.0  40.0  9.285064
+    36-45     27 10.037037    10.0  2.0  30.0  7.117051
+    46-55     60 10.866667     5.0  0.0  90.0 15.220934
+      56+     78 10.941026     6.0  0.4 125.0 15.708418
+
+==== manure_use_bags_quantity_per_season_by_county_name ====
+
+       county_name  count      mean  median  min   max       std
+    Bungoma County    126 11.468254     8.0  1.0  90.0 11.887261
+Trans Nzoia County     58  8.420690     4.0  0.0 125.0 17.543677
+
+==== manure_use_bags_quantity_per_season_by_primary_livelihood ====
+
+primary_livelihood  count      mean  median  min   max       std
+  Crop & Livestock     87 12.471264     8.0  1.0  90.0 13.299623
+     Crop farming      95  8.793684     5.0  0.4 125.0 14.452018
+ Livestock rearing      1 13.000000    13.0 13.0  13.0       NaN
+   Other (specify)      1  0.000000     0.0  0.0   0.0       NaN
+
+==== manure_use_bags_quantity_per_season_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count      mean  median  min   max       std
+                         Bumula     63 12.111111    10.0  1.0  50.0 10.005017
+                       Mt Elgon     63 10.825397     6.0  2.0  90.0 13.562923
+               Trans-Nzoia West     58  8.420690     4.0  0.0 125.0 17.543677
+
+==== acres_under_cover_crops_overall ====
+
+ count     mean  median  min  max     std
+ 179.0 0.627095     0.5 0.05  4.0 0.54744
+
+==== acres_under_cover_crops_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    130 0.645769     0.5 0.05  4.0 0.596397
+  Male     49 0.577551     0.5 0.10  2.0 0.389853
+
+==== acres_under_cover_crops_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.250000    0.25 0.25 0.25      NaN
+   26-35      16 0.525000    0.45 0.10 1.50 0.423478
+    36-45     29 0.646552    0.40 0.10 3.00 0.643502
+    46-55     58 0.587500    0.50 0.10 2.00 0.396897
+      56+     75 0.677000    0.50 0.05 4.00 0.631209
+
+==== acres_under_cover_crops_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    118 0.638347     0.5 0.10  3.0 0.479067
+Trans Nzoia County     61 0.605328     0.4 0.05  4.0 0.663939
+
+==== acres_under_cover_crops_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     83 0.554518     0.5 0.10  4.0 0.535837
+     Crop farming      94 0.692819     0.5 0.05  3.0 0.557845
+ Livestock rearing      1 0.500000     0.5 0.50  0.5      NaN
+   Other (specify)      1 0.600000     0.6 0.60  0.6      NaN
+
+==== acres_under_cover_crops_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     63 0.730159     0.5 0.10  3.0 0.548718
+                       Mt Elgon     55 0.533182     0.5 0.10  1.5 0.361198
+               Trans-Nzoia West     61 0.605328     0.4 0.05  4.0 0.663939
+
+==== zero_tillage_acres_under_cover_overall ====
+
+ count     mean  median  min  max     std
+ 115.0 0.577391     0.5 0.05  3.0 0.53815
+
+==== zero_tillage_acres_under_cover_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female     80 0.603750     0.5 0.05  3.0 0.587341
+  Male     35 0.517143     0.4 0.10  2.0 0.405104
+
+==== zero_tillage_acres_under_cover_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.250000    0.25 0.25 0.25      NaN
+   26-35      10 0.480000    0.30 0.10 1.50 0.428304
+    36-45     19 0.518421    0.25 0.10 3.00 0.670657
+    46-55     38 0.562500    0.50 0.10 1.00 0.345030
+      56+     47 0.640957    0.50 0.05 3.00 0.632400
+
+==== zero_tillage_acres_under_cover_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     74 0.576014     0.5 0.10  3.0 0.509405
+Trans Nzoia County     41 0.579878     0.4 0.05  3.0 0.593117
+
+==== zero_tillage_acres_under_cover_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     48 0.453646    0.35 0.10  2.0 0.413727
+     Crop farming      65 0.663462    0.50 0.05  3.0 0.606847
+ Livestock rearing      1 0.500000    0.50 0.50  0.5      NaN
+   Other (specify)      1 1.000000    1.00 1.00  1.0      NaN
+
+==== zero_tillage_acres_under_cover_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     40 0.686250    0.50 0.10  3.0 0.609854
+                       Mt Elgon     34 0.446324    0.35 0.10  1.0 0.320046
+               Trans-Nzoia West     41 0.579878    0.40 0.05  3.0 0.593117
+
+==== acres_under_crop_rotation_overall ====
+
+ count     mean  median  min  max      std
+ 179.0 0.671508     0.5 0.05  3.0 0.514828
+
+==== acres_under_crop_rotation_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    130 0.660385     0.5 0.05  3.0 0.512497
+  Male     49 0.701020     0.5 0.05  2.0 0.525148
+
+==== acres_under_crop_rotation_by_age_group ====
+
+age_group  count     mean  median   min  max      std
+    18-25      1 0.250000    0.25 0.250 0.25      NaN
+   26-35      16 0.496875    0.40 0.100 1.50 0.414917
+    36-45     29 0.668966    0.50 0.100 3.00 0.627838
+    46-55     56 0.661161    0.75 0.125 2.00 0.404995
+      56+     77 0.721753    0.75 0.050 3.00 0.558095
+
+==== acres_under_crop_rotation_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    118 0.714619   0.675 0.10  2.0 0.469182
+Trans Nzoia County     61 0.588115   0.500 0.05  3.0 0.588494
+
+==== acres_under_crop_rotation_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     81 0.601543    0.50 0.10  3.0 0.472896
+     Crop farming      96 0.733073    0.75 0.05  3.0 0.547656
+ Livestock rearing      1 0.500000    0.50 0.50  0.5      NaN
+   Other (specify)      1 0.600000    0.60 0.60  0.6      NaN
+
+==== acres_under_crop_rotation_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.796923     1.0 0.10  2.0 0.497170
+                       Mt Elgon     53 0.613679     0.5 0.10  2.0 0.415000
+               Trans-Nzoia West     61 0.588115     0.5 0.05  3.0 0.588494
+
+==== rainwater_tanks_overall ====
+
+ count     mean  median  min  max      std
+ 194.0 1.572165     1.0  0.0 13.0 1.702619
+
+==== rainwater_tanks_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    142 1.626761     1.0  0.0 13.0 1.816431
+  Male     52 1.423077     1.0  0.0  8.0 1.348145
+
+==== rainwater_tanks_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0  1.0  1.0      NaN
+   26-35      18 1.277778     1.0  1.0  5.0 0.958280
+    36-45     29 1.517241     1.0  0.0  8.0 1.526450
+    46-55     62 1.322581     1.0  1.0  6.0 1.083016
+      56+     84 1.845238     1.0  0.0 13.0 2.181489
+
+==== rainwater_tanks_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 1.692308     1.0  0.0 13.0 1.960249
+Trans Nzoia County     64 1.328125     1.0  1.0  5.0 0.960401
+
+==== rainwater_tanks_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 1.820225     1.0  0.0 13.0 2.113602
+     Crop farming     103 1.368932     1.0  1.0  9.0 1.236617
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 1.000000     1.0  1.0  1.0      NaN
+
+==== rainwater_tanks_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 1.769231     1.0  0.0  9.0 2.097388
+                       Mt Elgon     65 1.615385     1.0  0.0 13.0 1.825961
+               Trans-Nzoia West     64 1.328125     1.0  1.0  5.0 0.960401
+
+==== drip_irrigation_acres_overall ====
+
+ count     mean  median  min  max      std
+ 128.0 0.479648     0.4 0.05  2.0 0.367347
+
+==== drip_irrigation_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female     98 0.484592   0.400 0.05  2.0 0.366870
+  Male     30 0.463500   0.325 0.05  1.5 0.374721
+
+==== drip_irrigation_acres_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.500000   0.500 0.50  0.5      NaN
+   26-35      12 0.379167   0.200 0.10  1.0 0.348672
+    36-45     20 0.509000   0.325 0.08  2.0 0.474052
+    46-55     46 0.464239   0.400 0.08  1.0 0.323491
+      56+     49 0.506327   0.400 0.05  1.5 0.371850
+
+==== drip_irrigation_acres_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     81 0.474691     0.4 0.08  1.5 0.365656
+Trans Nzoia County     47 0.488191     0.4 0.05  2.0 0.374052
+
+==== drip_irrigation_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     44 0.315568     0.2 0.08  1.0 0.300587
+     Crop farming      83 0.565181     0.5 0.05  2.0 0.373618
+ Livestock rearing      0      NaN     NaN  NaN  NaN      NaN
+   Other (specify)      1 0.600000     0.6 0.60  0.6      NaN
+
+==== drip_irrigation_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     46 0.509022     0.4 0.08  1.5 0.363428
+                       Mt Elgon     35 0.429571     0.2 0.08  1.0 0.368914
+               Trans-Nzoia West     47 0.488191     0.4 0.05  2.0 0.374052
+
+==== mulching_acres_overall ====
+
+ count     mean  median  min  max      std
+ 167.0 0.556527     0.4 0.05  3.0 0.457049
+
+==== mulching_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    121 0.572893     0.4 0.05  3.0 0.492624
+  Male     46 0.513478     0.4 0.08  1.0 0.347603
+
+==== mulching_acres_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.250000    0.25 0.25 0.25      NaN
+   26-35      16 0.480000    0.45 0.08 1.00 0.382535
+    36-45     29 0.504828    0.25 0.08 3.00 0.593973
+    46-55     54 0.542685    0.50 0.08 1.50 0.359865
+      56+     67 0.612910    0.50 0.05 2.70 0.480698
+
+==== mulching_acres_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    112 0.552366     0.4 0.08  2.0 0.389383
+Trans Nzoia County     55 0.565000     0.4 0.05  3.0 0.574791
+
+==== mulching_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     76 0.492961   0.325 0.08 2.70 0.454211
+     Crop farming      89 0.619382   0.500 0.05 3.00 0.455299
+ Livestock rearing      1 0.250000   0.250 0.25 0.25      NaN
+   Other (specify)      1 0.100000   0.100 0.10 0.10      NaN
+
+==== mulching_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.629836     0.5 0.08  2.0 0.405325
+                       Mt Elgon     51 0.459706     0.3 0.08  1.0 0.351238
+               Trans-Nzoia West     55 0.565000     0.4 0.05  3.0 0.574791
+
+==== zai_pits_number_overall ====
+
+ count     mean  median  min   max       std
+ 123.0 9.707317     5.0  1.0 150.0 17.530176
+
+==== zai_pits_number_by_gender ====
+
+gender  count      mean  median  min   max       std
+Female     89 10.112360     5.0  1.0 150.0 19.883432
+  Male     34  8.647059     5.5  1.0  40.0  8.957416
+
+==== zai_pits_number_by_age_group ====
+
+age_group  count      mean  median  min   max       std
+    18-25      1  5.000000     5.0  5.0   5.0       NaN
+   26-35      14  6.000000     4.0  1.0  28.0  6.838803
+    36-45     19  7.631579     6.0  2.0  20.0  4.923984
+    46-55     43  7.720930     4.0  1.0  50.0  9.871377
+      56+     46 13.652174     5.5  1.0 150.0 26.319589
+
+==== zai_pits_number_by_county_name ====
+
+       county_name  count      mean  median  min   max       std
+    Bungoma County     74  9.445946     5.0  1.0 100.0 14.657872
+Trans Nzoia County     49 10.102041     5.0  1.0 150.0 21.308493
+
+==== zai_pits_number_by_primary_livelihood ====
+
+primary_livelihood  count      mean  median  min   max       std
+  Crop & Livestock     49  9.040816     4.0  1.0 100.0 15.591075
+     Crop farming      74 10.148649     5.0  1.0 150.0 18.794988
+ Livestock rearing      0       NaN     NaN  NaN   NaN       NaN
+   Other (specify)      0       NaN     NaN  NaN   NaN       NaN
+
+==== zai_pits_number_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count      mean  median  min   max       std
+                         Bumula     40  7.950000     5.0  1.0  50.0  9.350579
+                       Mt Elgon     34 11.205882     4.5  1.0 100.0 19.132361
+               Trans-Nzoia West     49 10.102041     5.0  1.0 150.0 21.308493
+
+==== drought_varieties_acres_overall ====
+
+ count     mean  median  min  max      std
+ 163.0 0.511748    0.25 0.01  4.0 0.519888
+
+==== drought_varieties_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    119 0.548950    0.30 0.02  4.0 0.570519
+  Male     44 0.411136    0.25 0.01  1.0 0.332985
+
+==== drought_varieties_acres_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      0      NaN     NaN  NaN  NaN      NaN
+   26-35      15 0.330333    0.20 0.08  1.0 0.350278
+    36-45     27 0.436296    0.30 0.08  1.0 0.342605
+    46-55     53 0.498302    0.25 0.08  2.0 0.417384
+      56+     68 0.592206    0.40 0.01  4.0 0.656316
+
+==== drought_varieties_acres_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    107 0.500374     0.3 0.01  1.0 0.370997
+Trans Nzoia County     56 0.533482     0.2 0.02  4.0 0.728085
+
+==== drought_varieties_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     77 0.484221    0.25 0.01 4.00 0.599134
+     Crop farming      84 0.545000    0.40 0.02 2.50 0.440640
+ Livestock rearing      1 0.250000    0.25 0.25 0.25      NaN
+   Other (specify)      1 0.100000    0.10 0.10 0.10      NaN
+
+==== drought_varieties_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     56 0.553304    0.45 0.08  1.0 0.374392
+                       Mt Elgon     51 0.442255    0.30 0.01  1.0 0.361974
+               Trans-Nzoia West     56 0.533482    0.20 0.02  4.0 0.728085
+
+==== early_varieties_acres_overall ====
+
+ count     mean  median  min  max      std
+ 183.0 0.607295     0.4 0.05  5.0 0.608464
+
+==== early_varieties_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    134 0.610896     0.4 0.05  5.0 0.638327
+  Male     49 0.597449     0.4 0.10  2.0 0.524063
+
+==== early_varieties_acres_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.500000    0.50 0.50  0.5      NaN
+   26-35      16 0.551562    0.35 0.10  1.5 0.426074
+    36-45     29 0.750000    0.40 0.10  5.0 0.955809
+    46-55     59 0.581780    0.50 0.10  2.0 0.415353
+      56+     78 0.586346    0.40 0.05  4.0 0.606760
+
+==== early_varieties_acres_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    120 0.636250     0.5 0.10  2.0 0.474019
+Trans Nzoia County     63 0.552143     0.3 0.05  5.0 0.806735
+
+==== early_varieties_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     84 0.566131    0.40 0.08 4.00 0.557341
+     Crop farming      97 0.646701    0.40 0.05 5.00 0.654940
+ Livestock rearing      1 0.250000    0.25 0.25 0.25      NaN
+   Other (specify)      1 0.600000    0.60 0.60 0.60      NaN
+
+==== early_varieties_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.728846     0.5 0.10  2.0 0.516736
+                       Mt Elgon     55 0.526818     0.4 0.10  2.0 0.395193
+               Trans-Nzoia West     63 0.552143     0.3 0.05  5.0 0.806735
+
+==== intercropping_acres_overall ====
+
+ count     mean  median  min  max      std
+ 172.0 0.714709     0.5 0.05  8.0 0.827673
+
+==== intercropping_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    126 0.727421    0.50 0.05  8.0 0.923197
+  Male     46 0.679891    0.75 0.10  2.0 0.483725
+
+==== intercropping_acres_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.500000    0.50 0.50  0.5      NaN
+   26-35      14 0.582143    0.50 0.10  1.5 0.393997
+    36-45     27 0.827778    0.50 0.10  8.0 1.485011
+    46-55     57 0.653947    0.50 0.10  2.0 0.475418
+      56+     73 0.748699    0.75 0.05  5.0 0.783494
+
+==== intercropping_acres_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    112 0.750000   0.775 0.10  5.0 0.596149
+Trans Nzoia County     60 0.648833   0.300 0.05  8.0 1.144579
+
+==== intercropping_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     76 0.645461    0.50 0.08 4.00 0.591286
+     Crop farming      94 0.776862    0.75 0.05 8.00 0.983542
+ Livestock rearing      1 0.250000    0.25 0.25 0.25      NaN
+   Other (specify)      1 0.600000    0.60 0.60 0.60      NaN
+
+==== intercropping_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.856967     0.8 0.10  5.0 0.717811
+                       Mt Elgon     51 0.622059     0.6 0.10  1.5 0.374187
+               Trans-Nzoia West     60 0.648833     0.3 0.05  8.0 1.144579
+
+==== kitchen_garden_m2_overall ====
+
+ count      mean  median  min   max       std
+ 194.0 37.912371    20.0  1.0 600.0 78.840414
+
+==== kitchen_garden_m2_by_gender ====
+
+gender  count      mean  median  min   max       std
+Female    142 40.507042    20.0  1.0 600.0 90.108032
+  Male     52 30.826923    20.0  3.0 140.0 31.697542
+
+==== kitchen_garden_m2_by_age_group ====
+
+age_group  count      mean  median  min   max       std
+    18-25      1 30.000000    30.0 30.0  30.0       NaN
+   26-35      18 20.222222    20.0  3.0  56.0 14.854413
+    36-45     29 41.310345    20.0  3.0 500.0 91.180396
+    46-55     61 35.672131    20.0  1.0 600.0 80.073034
+      56+     85 42.200000    20.0  3.0 600.0 82.412407
+
+==== kitchen_garden_m2_by_county_name ====
+
+       county_name  count      mean  median  min   max       std
+    Bungoma County    129 38.294574    20.0  1.0 600.0 69.997366
+Trans Nzoia County     65 37.153846    20.0  2.0 600.0 94.574909
+
+==== kitchen_garden_m2_by_primary_livelihood ====
+
+primary_livelihood  count      mean  median  min   max        std
+  Crop & Livestock     88 49.761364    20.0  1.0 600.0 102.055202
+     Crop farming     104 28.134615    20.0  2.0 500.0  51.278993
+ Livestock rearing      1 30.000000    30.0 30.0  30.0        NaN
+   Other (specify)      1 20.000000    20.0 20.0  20.0        NaN
+
+==== kitchen_garden_m2_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count      mean  median  min   max       std
+                         Bumula     65 38.338462    20.0  3.0 600.0 76.055752
+                       Mt Elgon     64 38.250000    20.0  1.0 450.0 63.863197
+               Trans-Nzoia West     65 37.153846    20.0  2.0 600.0 94.574909
+
+==== food_forest_acres_overall ====
+
+ count     mean  median  min  max      std
+ 178.0 0.538357     0.4 0.01  7.0 0.667842
+
+==== food_forest_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    131 0.556011     0.4 0.01  7.0 0.739282
+  Male     47 0.489149     0.4 0.08  2.0 0.410194
+
+==== food_forest_acres_by_age_group ====
+
+age_group  count     mean  median    min   max      std
+    18-25      1 0.125000  0.1250 0.1250 0.125      NaN
+   26-35      16 0.374688  0.1625 0.0100 1.000 0.381862
+    36-45     28 0.602500  0.2250 0.0800 7.000 1.293129
+    46-55     58 0.514569  0.4000 0.0800 2.000 0.444339
+      56+     75 0.573233  0.4000 0.0125 3.000 0.513541
+
+==== food_forest_acres_by_county_name ====
+
+       county_name  count     mean  median    min  max      std
+    Bungoma County    115 0.587500     0.4 0.0125  7.0 0.733420
+Trans Nzoia County     63 0.448651     0.2 0.0100  3.0 0.521142
+
+==== food_forest_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     80 0.471844   0.225 0.01  3.0 0.526139
+     Crop farming      96 0.598750   0.400 0.05  7.0 0.768989
+ Livestock rearing      1 0.500000   0.500 0.50  0.5      NaN
+   Other (specify)      1 0.100000   0.100 0.10  0.1      NaN
+
+==== food_forest_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median    min  max      std
+                         Bumula     64 0.686953    0.50 0.0800  7.0 0.914102
+                       Mt Elgon     51 0.462696    0.25 0.0125  1.0 0.380844
+               Trans-Nzoia West     63 0.448651    0.20 0.0100  3.0 0.521142
+
+==== trees_planted_number_overall ====
+
+ count       mean  median  min    max        std
+ 189.0 135.555556    50.0  1.0 2000.0 240.005061
+
+==== trees_planted_number_by_gender ====
+
+gender  count       mean  median  min    max        std
+Female    138 111.543478    50.0  1.0 2000.0 208.666923
+  Male     51 200.529412    76.0  7.0 1500.0 302.296170
+
+==== trees_planted_number_by_age_group ====
+
+age_group  count       mean  median  min    max        std
+    18-25      1  35.000000    35.0 35.0   35.0        NaN
+   26-35      17  78.117647    30.0  2.0  500.0 122.081368
+    36-45     29  94.068966    50.0 10.0  500.0 107.448304
+    46-55     61 125.590164    60.0  1.0 1000.0 185.201816
+      56+     81 171.209877    60.0  3.0 2000.0 315.919520
+
+==== trees_planted_number_by_county_name ====
+
+       county_name  count       mean  median  min    max        std
+    Bungoma County    125 172.520000    80.0  2.0 2000.0 280.440972
+Trans Nzoia County     64  63.359375    30.0  1.0  500.0  95.338056
+
+==== trees_planted_number_by_primary_livelihood ====
+
+primary_livelihood  count       mean  median   min    max        std
+  Crop & Livestock     84 104.178571    50.0   1.0  600.0 137.766448
+     Crop farming     103 161.640777    50.0   3.0 2000.0 298.684365
+ Livestock rearing      1 120.000000   120.0 120.0  120.0        NaN
+   Other (specify)      1 100.000000   100.0 100.0  100.0        NaN
+
+==== trees_planted_number_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count       mean  median  min    max        std
+                         Bumula     63 236.555556   100.0  2.0 2000.0 350.508054
+                       Mt Elgon     62 107.451613    50.0  3.0 1000.0 162.679578
+               Trans-Nzoia West     64  63.359375    30.0  1.0  500.0  95.338056
+
+==== vegetation_strip_meters_overall ====
+
+ count      mean  median  min   max       std
+ 140.0 20.007143     5.0  1.0 400.0 54.267721
+
+==== vegetation_strip_meters_by_gender ====
+
+gender  count      mean  median  min   max       std
+Female     97 24.412371     5.0  1.0 400.0 63.878099
+  Male     43 10.069767     5.0  1.0 100.0 16.550637
+
+==== vegetation_strip_meters_by_age_group ====
+
+age_group  count      mean  median  min   max       std
+    18-25      1  1.000000     1.0  1.0   1.0       NaN
+   26-35      13  6.923077     5.0  1.0  15.0  4.590961
+    36-45     24  7.750000     5.0  1.0  20.0  6.954823
+    46-55     47 18.914894     7.0  1.0 250.0 39.065068
+      56+     55 29.727273     5.0  1.0 400.0 77.739226
+
+==== vegetation_strip_meters_by_county_name ====
+
+       county_name  count      mean  median  min   max       std
+    Bungoma County     93 23.301075     5.0  1.0 400.0 61.318801
+Trans Nzoia County     47 13.489362     7.0  1.0 250.0 36.244263
+
+==== vegetation_strip_meters_by_primary_livelihood ====
+
+primary_livelihood  count       mean  median   min   max       std
+  Crop & Livestock     62  25.983871     4.5   1.0 400.0 61.898249
+     Crop farming      76  14.289474     5.0   1.0 400.0 46.802227
+ Livestock rearing      1 100.000000   100.0 100.0 100.0       NaN
+   Other (specify)      1   4.000000     4.0   4.0   4.0       NaN
+
+==== vegetation_strip_meters_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count      mean  median  min   max       std
+                         Bumula     46 29.760870     5.0  1.0 400.0 82.724223
+                       Mt Elgon     47 16.978723     5.0  2.0 150.0 27.256024
+               Trans-Nzoia West     47 13.489362     7.0  1.0 250.0 36.244263
+
+==== ipm_acres_overall ====
+
+ count    mean  median  min  max      std
+ 161.0 0.63882     0.5  0.1  5.0 0.542584
+
+==== ipm_acres_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    116 0.660345     0.5  0.1  5.0 0.588929
+  Male     45 0.583333     0.5  0.1  2.0 0.399574
+
+==== ipm_acres_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.250000    0.25 0.25 0.25      NaN
+   26-35      15 0.593333    0.60 0.10 1.50 0.445159
+    36-45     26 0.526923    0.30 0.10 2.00 0.436630
+    46-55     53 0.566509    0.50 0.10 2.00 0.397012
+      56+     66 0.757197    0.80 0.10 5.00 0.675474
+
+==== ipm_acres_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    101 0.672030    0.75  0.1  2.0 0.431151
+Trans Nzoia County     60 0.582917    0.50  0.1  5.0 0.691542
+
+==== ipm_acres_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     75 0.666333    0.50 0.10 5.00 0.659475
+     Crop farming      84 0.619345    0.50 0.10 2.00 0.420545
+ Livestock rearing      1 0.250000    0.25 0.25 0.25      NaN
+   Other (specify)      1 0.600000    0.60 0.60 0.60      NaN
+
+==== ipm_acres_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     51 0.778431     0.8  0.1  2.0 0.455550
+                       Mt Elgon     50 0.563500     0.5  0.1  1.0 0.379218
+               Trans-Nzoia West     60 0.582917     0.5  0.1  5.0 0.691542
+
+==== avg_price_unit_2021_overall ====
+
+ count        mean  median  min      max         std
+ 161.0 2082.974534   200.0 12.0 100000.0 8818.482807
+
+==== avg_price_unit_2021_by_gender ====
+
+gender  count        mean  median  min      max          std
+Female    115 1545.961739   250.0 12.0  40000.0  4780.238017
+  Male     46 3425.506522   175.0 16.3 100000.0 14698.035531
+
+==== avg_price_unit_2021_by_age_group ====
+
+age_group  count        mean  median   min      max          std
+    18-25      1  120.000000   120.0 120.0    120.0          NaN
+   26-35      15  738.546667   200.0  33.5   3500.0  1095.460958
+    36-45     26 1118.680769   275.0  14.9   5000.0  1625.442185
+    46-55     55 3372.792727   250.0  12.0 100000.0 14361.732214
+      56+     64 1712.053125   200.0  15.0  30000.0  4113.852320
+
+==== avg_price_unit_2021_by_county_name ====
+
+       county_name  count        mean  median  min      max          std
+    Bungoma County    114 2540.331579   200.0 12.0 100000.0 10406.866700
+Trans Nzoia County     47  973.640426   200.0 16.3   6000.0  1632.497274
+
+==== avg_price_unit_2021_by_primary_livelihood ====
+
+primary_livelihood  count       mean  median   min      max          std
+  Crop & Livestock     80 1187.32125   250.0  12.0   5500.0  1665.257405
+     Crop farming      79 3040.80000   200.0  16.3 100000.0 12444.085738
+ Livestock rearing      1   50.00000    50.0  50.0     50.0          NaN
+   Other (specify)      1  100.00000   100.0 100.0    100.0          NaN
+
+==== avg_price_unit_2021_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count        mean  median  min      max          std
+                         Bumula     58  861.172414   150.0 12.0   5000.0  1506.172597
+                       Mt Elgon     56 4279.460714   250.0 14.9 100000.0 14632.470633
+               Trans-Nzoia West     47  973.640426   200.0 16.3   6000.0  1632.497274
+
+==== income_increase_sold_more_overall ====
+
+ count     mean  median  min  max      std
+ 192.0 0.598958     1.0  0.0  1.0 0.491391
+
+==== income_increase_sold_more_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    141 0.581560     1.0  0.0  1.0 0.495062
+  Male     51 0.647059     1.0  0.0  1.0 0.482640
+
+==== income_increase_sold_more_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0  1.0  1.0      NaN
+   26-35      18 0.722222     1.0  0.0  1.0 0.460889
+    36-45     28 0.392857     0.0  0.0  1.0 0.497347
+    46-55     62 0.661290     1.0  0.0  1.0 0.477134
+      56+     83 0.590361     1.0  0.0  1.0 0.494757
+
+==== income_increase_sold_more_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    129 0.581395     1.0  0.0  1.0 0.495254
+Trans Nzoia County     63 0.634921     1.0  0.0  1.0 0.485320
+
+==== income_increase_sold_more_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.483146     0.0  0.0  1.0 0.502547
+     Crop farming     101 0.702970     1.0  0.0  1.0 0.459229
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== income_increase_sold_more_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.584615     1.0  0.0  1.0 0.496623
+                       Mt Elgon     64 0.578125     1.0  0.0  1.0 0.497763
+               Trans-Nzoia West     63 0.634921     1.0  0.0  1.0 0.485320
+
+==== income_increase_new_crops_overall ====
+
+ count     mean  median  min  max      std
+ 192.0 0.588542     1.0  0.0  1.0 0.493384
+
+==== income_increase_new_crops_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    141 0.617021     1.0  0.0  1.0 0.487846
+  Male     51 0.509804     1.0  0.0  1.0 0.504878
+
+==== income_increase_new_crops_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.722222     1.0  0.0  1.0 0.460889
+    36-45     28 0.750000     1.0  0.0  1.0 0.440959
+    46-55     62 0.500000     0.5  0.0  1.0 0.504082
+      56+     83 0.578313     1.0  0.0  1.0 0.496831
+
+==== income_increase_new_crops_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    129 0.651163     1.0  0.0  1.0 0.478460
+Trans Nzoia County     63 0.460317     0.0  0.0  1.0 0.502426
+
+==== income_increase_new_crops_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.719101     1.0  0.0  1.0 0.451985
+     Crop farming     101 0.475248     0.0  0.0  1.0 0.501878
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 1.000000     1.0  1.0  1.0      NaN
+
+==== income_increase_new_crops_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.630769     1.0  0.0  1.0 0.486352
+                       Mt Elgon     64 0.671875     1.0  0.0  1.0 0.473242
+               Trans-Nzoia West     63 0.460317     0.0  0.0  1.0 0.502426
+
+==== income_increase_better_price_overall ====
+
+ count     mean  median  min  max      std
+ 192.0 0.197917     0.0  0.0  1.0 0.399471
+
+==== income_increase_better_price_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    141 0.212766     0.0  0.0  1.0 0.410723
+  Male     51 0.156863     0.0  0.0  1.0 0.367290
+
+==== income_increase_better_price_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.166667     0.0  0.0  1.0 0.383482
+    36-45     28 0.071429     0.0  0.0  1.0 0.262265
+    46-55     62 0.177419     0.0  0.0  1.0 0.385142
+      56+     83 0.265060     0.0  0.0  1.0 0.444048
+
+==== income_increase_better_price_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    129 0.186047     0.0  0.0  1.0 0.390661
+Trans Nzoia County     63 0.222222     0.0  0.0  1.0 0.419079
+
+==== income_increase_better_price_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.134831     0.0  0.0  1.0 0.343479
+     Crop farming     101 0.247525     0.0  0.0  1.0 0.433727
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== income_increase_better_price_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.169231     0.0  0.0  1.0 0.377874
+                       Mt Elgon     64 0.203125     0.0  0.0  1.0 0.405505
+               Trans-Nzoia West     63 0.222222     0.0  0.0  1.0 0.419079
+
+==== income_increase_processed_overall ====
+
+ count     mean  median  min  max      std
+ 192.0 0.041667     0.0  0.0  1.0 0.200349
+
+==== income_increase_processed_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    141 0.042553     0.0  0.0  1.0 0.202567
+  Male     51 0.039216     0.0  0.0  1.0 0.196039
+
+==== income_increase_processed_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.000000     0.0  0.0  0.0 0.000000
+    36-45     28 0.035714     0.0  0.0  1.0 0.188982
+    46-55     62 0.032258     0.0  0.0  1.0 0.178127
+      56+     83 0.060241     0.0  0.0  1.0 0.239379
+
+==== income_increase_processed_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    129 0.031008     0.0  0.0  1.0 0.174014
+Trans Nzoia County     63 0.063492     0.0  0.0  1.0 0.245805
+
+==== income_increase_processed_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.033708     0.0  0.0  1.0 0.181499
+     Crop farming     101 0.049505     0.0  0.0  1.0 0.218002
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== income_increase_processed_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.030769     0.0  0.0  1.0 0.174036
+                       Mt Elgon     64 0.031250     0.0  0.0  1.0 0.175368
+               Trans-Nzoia West     63 0.063492     0.0  0.0  1.0 0.245805
+
+==== income_increase_seedlings_overall ====
+
+ count     mean  median  min  max      std
+ 192.0 0.098958     0.0  0.0  1.0 0.299387
+
+==== income_increase_seedlings_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    141 0.092199     0.0  0.0  1.0 0.290337
+  Male     51 0.117647     0.0  0.0  1.0 0.325396
+
+==== income_increase_seedlings_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.000000     0.0  0.0  0.0 0.000000
+    36-45     28 0.035714     0.0  0.0  1.0 0.188982
+    46-55     62 0.096774     0.0  0.0  1.0 0.298064
+      56+     83 0.144578     0.0  0.0  1.0 0.353813
+
+==== income_increase_seedlings_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    129 0.077519     0.0  0.0  1.0 0.268456
+Trans Nzoia County     63 0.142857     0.0  0.0  1.0 0.352738
+
+==== income_increase_seedlings_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.044944     0.0  0.0  1.0 0.208355
+     Crop farming     101 0.148515     0.0  0.0  1.0 0.357383
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== income_increase_seedlings_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.076923     0.0  0.0  1.0 0.268543
+                       Mt Elgon     64 0.078125     0.0  0.0  1.0 0.270490
+               Trans-Nzoia West     63 0.142857     0.0  0.0  1.0 0.352738
+
+==== income_increase_other_overall ====
+
+ count     mean  median  min  max      std
+ 192.0 0.067708     0.0  0.0  1.0 0.251902
+
+==== income_increase_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    141 0.063830     0.0  0.0  1.0 0.245321
+  Male     51 0.078431     0.0  0.0  1.0 0.271524
+
+==== income_increase_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.000000     0.0  0.0  0.0 0.000000
+    36-45     28 0.107143     0.0  0.0  1.0 0.314970
+    46-55     62 0.064516     0.0  0.0  1.0 0.247676
+      56+     83 0.072289     0.0  0.0  1.0 0.260540
+
+==== income_increase_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    129 0.062016     0.0  0.0  1.0 0.242124
+Trans Nzoia County     63 0.079365     0.0  0.0  1.0 0.272479
+
+==== income_increase_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.033708     0.0  0.0  1.0 0.181499
+     Crop farming     101 0.099010     0.0  0.0  1.0 0.300165
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== income_increase_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.076923     0.0  0.0  1.0 0.268543
+                       Mt Elgon     64 0.046875     0.0  0.0  1.0 0.213042
+               Trans-Nzoia West     63 0.079365     0.0  0.0  1.0 0.272479
+
+==== skill_rainwater_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.876923     1.0  0.0  1.0 0.329371
+
+==== skill_rainwater_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.881119     1.0    0    1 0.324786
+  Male     52 0.865385     1.0    0    1 0.344642
+
+==== skill_rainwater_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.944444     1.0    0    1 0.235702
+    36-45     29 0.793103     1.0    0    1 0.412251
+    46-55     62 0.919355     1.0    0    1 0.274512
+      56+     85 0.858824     1.0    0    1 0.350270
+
+==== skill_rainwater_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.884615     1.0    0    1 0.320721
+Trans Nzoia County     65 0.861538     1.0    0    1 0.348072
+
+==== skill_rainwater_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.853933     1.0    0    1 0.355175
+     Crop farming     104 0.894231     1.0    0    1 0.309031
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== skill_rainwater_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.876923     1.0    0    1 0.331082
+                       Mt Elgon     65 0.892308     1.0    0    1 0.312404
+               Trans-Nzoia West     65 0.861538     1.0    0    1 0.348072
+
+==== skill_drought_crops_overall ====
+
+ count    mean  median  min  max      std
+ 195.0 0.65641     1.0  0.0  1.0 0.476129
+
+==== skill_drought_crops_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.657343     1.0    0    1 0.476266
+  Male     52 0.653846     1.0    0    1 0.480384
+
+==== skill_drought_crops_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.666667     1.0    0    1 0.485071
+    36-45     29 0.689655     1.0    0    1 0.470824
+    46-55     62 0.661290     1.0    0    1 0.477134
+      56+     85 0.647059     1.0    0    1 0.480721
+
+==== skill_drought_crops_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.676923     1.0    0    1 0.469461
+Trans Nzoia County     65 0.615385     1.0    0    1 0.490290
+
+==== skill_drought_crops_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.730337     1.0    0    1 0.446299
+     Crop farming     104 0.586538     1.0    0    1 0.494839
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== skill_drought_crops_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.692308     1.0    0    1 0.465130
+                       Mt Elgon     65 0.661538     1.0    0    1 0.476869
+               Trans-Nzoia West     65 0.615385     1.0    0    1 0.490290
+
+==== skill_soil_conservation_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.569231     1.0  0.0  1.0 0.496459
+
+==== skill_soil_conservation_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.559441     1.0    0    1 0.498199
+  Male     52 0.596154     1.0    0    1 0.495454
+
+==== skill_soil_conservation_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.666667     1.0    0    1 0.485071
+    36-45     29 0.586207     1.0    0    1 0.501230
+    46-55     62 0.661290     1.0    0    1 0.477134
+      56+     85 0.482353     0.0    0    1 0.502654
+
+==== skill_soil_conservation_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.561538     1.0    0    1 0.498118
+Trans Nzoia County     65 0.584615     1.0    0    1 0.496623
+
+==== skill_soil_conservation_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.595506     1.0    0    1 0.493575
+     Crop farming     104 0.548077     1.0    0    1 0.500093
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== skill_soil_conservation_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.553846     1.0    0    1 0.500961
+                       Mt Elgon     65 0.569231     1.0    0    1 0.499038
+               Trans-Nzoia West     65 0.584615     1.0    0    1 0.496623
+
+==== skill_agroecology_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.487179     0.0  0.0  1.0 0.501122
+
+==== skill_agroecology_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.482517     0.0    0    1 0.501451
+  Male     52 0.500000     0.5    0    1 0.504878
+
+==== skill_agroecology_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.611111     1.0    0    1 0.501631
+    36-45     29 0.517241     1.0    0    1 0.508548
+    46-55     62 0.548387     1.0    0    1 0.501716
+      56+     85 0.411765     0.0    0    1 0.495074
+
+==== skill_agroecology_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.492308     0.0    0    1 0.501875
+Trans Nzoia County     65 0.476923     0.0    0    1 0.503354
+
+==== skill_agroecology_by_primary_livelihood ====
+
+primary_livelihood  count    mean  median  min  max      std
+  Crop & Livestock     89 0.47191     0.0    0    1 0.502039
+     Crop farming     104 0.50000     0.5    0    1 0.502421
+ Livestock rearing      1 1.00000     1.0    1    1      NaN
+   Other (specify)      1 0.00000     0.0    0    0      NaN
+
+==== skill_agroecology_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.430769     0.0    0    1 0.499038
+                       Mt Elgon     65 0.553846     1.0    0    1 0.500961
+               Trans-Nzoia West     65 0.476923     0.0    0    1 0.503354
+
+==== skill_climate_planning_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.338462     0.0  0.0  1.0 0.474404
+
+==== skill_climate_planning_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.377622     0.0    0    1 0.486496
+  Male     52 0.230769     0.0    0    1 0.425436
+
+==== skill_climate_planning_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.344828     0.0    0    1 0.483725
+    46-55     62 0.338710     0.0    0    1 0.477134
+      56+     85 0.341176     0.0    0    1 0.476918
+
+==== skill_climate_planning_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.323077     0.0    0    1 0.469461
+Trans Nzoia County     65 0.369231     0.0    0    1 0.486352
+
+==== skill_climate_planning_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.337079     0.0    0    1 0.475390
+     Crop farming     104 0.346154     0.0    0    1 0.478047
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== skill_climate_planning_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.276923     0.0    0    1 0.450961
+                       Mt Elgon     65 0.369231     0.0    0    1 0.486352
+               Trans-Nzoia West     65 0.369231     0.0    0    1 0.486352
+
+==== skill_weather_access_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.174359     0.0  0.0  1.0 0.380394
+
+==== skill_weather_access_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.181818     0.0    0    1 0.387050
+  Male     52 0.153846     0.0    0    1 0.364321
+
+==== skill_weather_access_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.111111     0.0    0    1 0.323381
+    36-45     29 0.172414     0.0    0    1 0.384426
+    46-55     62 0.177419     0.0    0    1 0.385142
+      56+     85 0.188235     0.0    0    1 0.393220
+
+==== skill_weather_access_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.176923     0.0    0    1 0.383080
+Trans Nzoia County     65 0.169231     0.0    0    1 0.377874
+
+==== skill_weather_access_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.157303     0.0    0    1 0.366149
+     Crop farming     104 0.192308     0.0    0    1 0.396022
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== skill_weather_access_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.184615     0.0    0    1 0.391005
+                       Mt Elgon     65 0.169231     0.0    0    1 0.377874
+               Trans-Nzoia West     65 0.169231     0.0    0    1 0.377874
+
+==== skill_none_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.025641     0.0  0.0  1.0 0.158469
+
+==== skill_none_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.034965     0.0    0    1 0.184337
+  Male     52 0.000000     0.0    0    0 0.000000
+
+==== skill_none_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.016129     0.0    0    1 0.127000
+      56+     85 0.047059     0.0    0    1 0.213021
+
+==== skill_none_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.023077     0.0    0    1 0.150729
+Trans Nzoia County     65 0.030769     0.0    0    1 0.174036
+
+==== skill_none_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.000000     0.0    0    0 0.000000
+     Crop farming     104 0.048077     0.0    0    1 0.214965
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== skill_none_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.015385     0.0    0    1 0.124035
+                       Mt Elgon     65 0.030769     0.0    0    1 0.174036
+               Trans-Nzoia West     65 0.030769     0.0    0    1 0.174036
+
+==== skill_other_overall ====
+
+ count  mean  median  min  max  std
+ 195.0   0.0     0.0  0.0  0.0  0.0
+
+==== skill_other_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    143   0.0     0.0    0    0  0.0
+  Male     52   0.0     0.0    0    0  0.0
+
+==== skill_other_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0    0    0  NaN
+   26-35      18   0.0     0.0    0    0  0.0
+    36-45     29   0.0     0.0    0    0  0.0
+    46-55     62   0.0     0.0    0    0  0.0
+      56+     85   0.0     0.0    0    0  0.0
+
+==== skill_other_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    130   0.0     0.0    0    0  0.0
+Trans Nzoia County     65   0.0     0.0    0    0  0.0
+
+==== skill_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     89   0.0     0.0    0    0  0.0
+     Crop farming     104   0.0     0.0    0    0  0.0
+ Livestock rearing      1   0.0     0.0    0    0  NaN
+   Other (specify)      1   0.0     0.0    0    0  NaN
+
+==== skill_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     65   0.0     0.0    0    0  0.0
+                       Mt Elgon     65   0.0     0.0    0    0  0.0
+               Trans-Nzoia West     65   0.0     0.0    0    0  0.0
+
+==== action_water_system_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.923077     1.0  0.0  1.0 0.267155
+
+==== action_water_system_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.923077     1.0    0    1 0.267406
+  Male     52 0.923077     1.0    0    1 0.269069
+
+==== action_water_system_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 1.000000     1.0    1    1 0.000000
+    36-45     29 0.862069     1.0    0    1 0.350931
+    46-55     62 0.919355     1.0    0    1 0.274512
+      56+     85 0.929412     1.0    0    1 0.257656
+
+==== action_water_system_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.923077     1.0    0    1 0.267500
+Trans Nzoia County     65 0.923077     1.0    0    1 0.268543
+
+==== action_water_system_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max     std
+  Crop & Livestock     89 0.898876     1.0    0    1 0.30320
+     Crop farming     104 0.942308     1.0    0    1 0.23429
+ Livestock rearing      1 1.000000     1.0    1    1     NaN
+   Other (specify)      1 1.000000     1.0    1    1     NaN
+
+==== action_water_system_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.892308     1.0    0    1 0.312404
+                       Mt Elgon     65 0.953846     1.0    0    1 0.211451
+               Trans-Nzoia West     65 0.923077     1.0    0    1 0.268543
+
+==== action_crop_diversify_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.425641     0.0  0.0  1.0 0.495713
+
+==== action_crop_diversify_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.447552     0.0    0    1 0.498989
+  Male     52 0.365385     0.0    0    1 0.486236
+
+==== action_crop_diversify_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.500000     0.5    0    1 0.514496
+    36-45     29 0.344828     0.0    0    1 0.483725
+    46-55     62 0.483871     0.0    0    1 0.503819
+      56+     85 0.400000     0.0    0    1 0.492805
+
+==== action_crop_diversify_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.423077     0.0    0    1 0.495959
+Trans Nzoia County     65 0.430769     0.0    0    1 0.499038
+
+==== action_crop_diversify_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.314607     0.0    0    1 0.466990
+     Crop farming     104 0.528846     1.0    0    1 0.501584
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== action_crop_diversify_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.400000     0.0    0    1 0.493710
+                       Mt Elgon     65 0.446154     0.0    0    1 0.500961
+               Trans-Nzoia West     65 0.430769     0.0    0    1 0.499038
+
+==== action_soil_improve_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.625641     1.0  0.0  1.0 0.485203
+
+==== action_soil_improve_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.622378     1.0    0    1 0.486496
+  Male     52 0.634615     1.0    0    1 0.486236
+
+==== action_soil_improve_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.611111     1.0    0    1 0.501631
+    36-45     29 0.620690     1.0    0    1 0.493804
+    46-55     62 0.677419     1.0    0    1 0.471280
+      56+     85 0.600000     1.0    0    1 0.492805
+
+==== action_soil_improve_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.653846     1.0    0    1 0.477583
+Trans Nzoia County     65 0.569231     1.0    0    1 0.499038
+
+==== action_soil_improve_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.685393     1.0    0    1 0.466990
+     Crop farming     104 0.567308     1.0    0    1 0.497848
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== action_soil_improve_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.646154     1.0    0    1 0.481883
+                       Mt Elgon     65 0.661538     1.0    0    1 0.476869
+               Trans-Nzoia West     65 0.569231     1.0    0    1 0.499038
+
+==== action_kitchen_garden_overall ====
+
+ count    mean  median  min  max      std
+ 195.0 0.65641     1.0  0.0  1.0 0.476129
+
+==== action_kitchen_garden_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.664336     1.0    0    1 0.473882
+  Male     52 0.634615     1.0    0    1 0.486236
+
+==== action_kitchen_garden_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.777778     1.0    0    1 0.427793
+    36-45     29 0.724138     1.0    0    1 0.454859
+    46-55     62 0.677419     1.0    0    1 0.471280
+      56+     85 0.600000     1.0    0    1 0.492805
+
+==== action_kitchen_garden_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.692308     1.0    0    1 0.463324
+Trans Nzoia County     65 0.584615     1.0    0    1 0.496623
+
+==== action_kitchen_garden_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.696629     1.0    0    1 0.462319
+     Crop farming     104 0.615385     1.0    0    1 0.488860
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== action_kitchen_garden_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.630769     1.0    0    1 0.486352
+                       Mt Elgon     65 0.753846     1.0    0    1 0.434122
+               Trans-Nzoia West     65 0.584615     1.0    0    1 0.496623
+
+==== action_new_practice_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.461538     0.0  0.0  1.0 0.499802
+
+==== action_new_practice_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.468531     0.0    0    1 0.500763
+  Male     52 0.442308     0.0    0    1 0.501506
+
+==== action_new_practice_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.555556     1.0    0    1 0.511310
+    36-45     29 0.482759     0.0    0    1 0.508548
+    46-55     62 0.564516     1.0    0    1 0.499868
+      56+     85 0.364706     0.0    0    1 0.484204
+
+==== action_new_practice_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.461538     0.0    0    1 0.500447
+Trans Nzoia County     65 0.461538     0.0    0    1 0.502398
+
+==== action_new_practice_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.449438     0.0    0    1 0.500255
+     Crop farming     104 0.480769     0.0    0    1 0.502050
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== action_new_practice_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.446154     0.0    0    1 0.500961
+                       Mt Elgon     65 0.476923     0.0    0    1 0.503354
+               Trans-Nzoia West     65 0.461538     0.0    0    1 0.502398
+
+==== action_group_join_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.389744     0.0  0.0  1.0 0.488947
+
+==== action_group_join_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.405594     0.0    0    1 0.492733
+  Male     52 0.346154     0.0    0    1 0.480384
+
+==== action_group_join_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.388889     0.0    0    1 0.501631
+    36-45     29 0.275862     0.0    0    1 0.454859
+    46-55     62 0.467742     0.0    0    1 0.503032
+      56+     85 0.376471     0.0    0    1 0.487376
+
+==== action_group_join_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.415385     0.0    0    1 0.494695
+Trans Nzoia County     65 0.338462     0.0    0    1 0.476869
+
+==== action_group_join_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.314607     0.0    0    1 0.466990
+     Crop farming     104 0.461538     0.0    0    1 0.500933
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== action_group_join_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.369231     0.0    0    1 0.486352
+                       Mt Elgon     65 0.461538     0.0    0    1 0.502398
+               Trans-Nzoia West     65 0.338462     0.0    0    1 0.476869
+
+==== action_drought_plan_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.097436     0.0  0.0  1.0 0.297314
+
+==== action_drought_plan_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.090909     0.0    0    1 0.288490
+  Male     52 0.115385     0.0    0    1 0.322603
+
+==== action_drought_plan_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.055556     0.0    0    1 0.235702
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.161290     0.0    0    1 0.370801
+      56+     85 0.082353     0.0    0    1 0.276533
+
+==== action_drought_plan_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.115385     0.0    0    1 0.320721
+Trans Nzoia County     65 0.061538     0.0    0    1 0.242186
+
+==== action_drought_plan_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.123596     0.0    0    1 0.330984
+     Crop farming     104 0.076923     0.0    0    1 0.267760
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== action_drought_plan_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.123077     0.0    0    1 0.331082
+                       Mt Elgon     65 0.107692     0.0    0    1 0.312404
+               Trans-Nzoia West     65 0.061538     0.0    0    1 0.242186
+
+==== action_none_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.005128     0.0  0.0  1.0 0.071611
+
+==== action_none_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.006993     0.0    0    1 0.083624
+  Male     52 0.000000     0.0    0    0 0.000000
+
+==== action_none_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.011765     0.0    0    1 0.108465
+
+==== action_none_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.000000     0.0    0    0 0.000000
+Trans Nzoia County     65 0.015385     0.0    0    1 0.124035
+
+==== action_none_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.000000     0.0    0    0 0.000000
+     Crop farming     104 0.009615     0.0    0    1 0.098058
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== action_none_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.000000     0.0    0    0 0.000000
+                       Mt Elgon     65 0.000000     0.0    0    0 0.000000
+               Trans-Nzoia West     65 0.015385     0.0    0    1 0.124035
+
+==== action_other_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.005128     0.0  0.0  1.0 0.071611
+
+==== action_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.000000     0.0    0    0 0.000000
+  Male     52 0.019231     0.0    0    1 0.138675
+
+==== action_other_by_age_group ====
+
+age_group  count     mean  median  min  max   std
+    18-25      1 0.000000     0.0    0    0   NaN
+   26-35      18 0.000000     0.0    0    0 0.000
+    36-45     29 0.000000     0.0    0    0 0.000
+    46-55     62 0.016129     0.0    0    1 0.127
+      56+     85 0.000000     0.0    0    0 0.000
+
+==== action_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.007692     0.0    0    1 0.087706
+Trans Nzoia County     65 0.000000     0.0    0    0 0.000000
+
+==== action_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max   std
+  Crop & Livestock     89 0.011236     0.0    0    1 0.106
+     Crop farming     104 0.000000     0.0    0    0 0.000
+ Livestock rearing      1 0.000000     0.0    0    0   NaN
+   Other (specify)      1 0.000000     0.0    0    0   NaN
+
+==== action_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.015385     0.0    0    1 0.124035
+                       Mt Elgon     65 0.000000     0.0    0    0 0.000000
+               Trans-Nzoia West     65 0.000000     0.0    0    0 0.000000
+
+==== enabler_training_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.646154     1.0  0.0  1.0 0.479393
+
+==== enabler_training_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.622378     1.0    0    1 0.486496
+  Male     52 0.711538     1.0    0    1 0.457467
+
+==== enabler_training_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.666667     1.0    0    1 0.485071
+    36-45     29 0.620690     1.0    0    1 0.493804
+    46-55     62 0.596774     1.0    0    1 0.494550
+      56+     85 0.682353     1.0    0    1 0.468324
+
+==== enabler_training_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.638462     1.0    0    1 0.482305
+Trans Nzoia County     65 0.661538     1.0    0    1 0.476869
+
+==== enabler_training_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.696629     1.0    0    1 0.462319
+     Crop farming     104 0.596154     1.0    0    1 0.493043
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== enabler_training_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.661538     1.0    0    1 0.476869
+                       Mt Elgon     65 0.615385     1.0    0    1 0.490290
+               Trans-Nzoia West     65 0.661538     1.0    0    1 0.476869
+
+==== enabler_project_support_overall ====
+
+ count    mean  median  min  max      std
+ 195.0 0.45641     0.0  0.0  1.0 0.499378
+
+==== enabler_project_support_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.503497     1.0    0    1 0.501745
+  Male     52 0.326923     0.0    0    1 0.473665
+
+==== enabler_project_support_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.444444     0.0    0    1 0.511310
+    36-45     29 0.517241     1.0    0    1 0.508548
+    46-55     62 0.467742     0.0    0    1 0.503032
+      56+     85 0.435294     0.0    0    1 0.498738
+
+==== enabler_project_support_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.453846     0.0    0    1 0.499791
+Trans Nzoia County     65 0.461538     0.0    0    1 0.502398
+
+==== enabler_project_support_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.550562     1.0    0    1 0.500255
+     Crop farming     104 0.375000     0.0    0    1 0.486467
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== enabler_project_support_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.430769     0.0    0    1 0.499038
+                       Mt Elgon     65 0.476923     0.0    0    1 0.503354
+               Trans-Nzoia West     65 0.461538     0.0    0    1 0.502398
+
+==== enabler_demo_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.517949     1.0  0.0  1.0 0.500964
+
+==== enabler_demo_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.517483     1.0    0    1 0.501451
+  Male     52 0.519231     1.0    0    1 0.504505
+
+==== enabler_demo_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.555556     1.0    0    1 0.511310
+    36-45     29 0.482759     0.0    0    1 0.508548
+    46-55     62 0.516129     1.0    0    1 0.503819
+      56+     85 0.529412     1.0    0    1 0.502096
+
+==== enabler_demo_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.569231     1.0    0    1 0.497100
+Trans Nzoia County     65 0.415385     0.0    0    1 0.496623
+
+==== enabler_demo_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.505618     1.0    0    1 0.502801
+     Crop farming     104 0.528846     1.0    0    1 0.501584
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== enabler_demo_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.476923     0.0    0    1 0.503354
+                       Mt Elgon     65 0.661538     1.0    0    1 0.476869
+               Trans-Nzoia West     65 0.415385     0.0    0    1 0.496623
+
+==== enabler_group_support_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.307692     0.0  0.0  1.0 0.462726
+
+==== enabler_group_support_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.321678     0.0    0    1 0.468762
+  Male     52 0.269231     0.0    0    1 0.447888
+
+==== enabler_group_support_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.241379     0.0    0    1 0.435494
+    46-55     62 0.290323     0.0    0    1 0.457617
+      56+     85 0.341176     0.0    0    1 0.476918
+
+==== enabler_group_support_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.315385     0.0    0    1 0.466466
+Trans Nzoia County     65 0.292308     0.0    0    1 0.458362
+
+==== enabler_group_support_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.325843     0.0    0    1 0.471344
+     Crop farming     104 0.298077     0.0    0    1 0.459629
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== enabler_group_support_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.276923     0.0    0    1 0.450961
+                       Mt Elgon     65 0.353846     0.0    0    1 0.481883
+               Trans-Nzoia West     65 0.292308     0.0    0    1 0.458362
+
+==== enabler_results_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.302564     0.0  0.0  1.0 0.460551
+
+==== enabler_results_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.335664     0.0    0    1 0.473882
+  Male     52 0.211538     0.0    0    1 0.412384
+
+==== enabler_results_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.103448     0.0    0    1 0.309934
+    46-55     62 0.322581     0.0    0    1 0.471280
+      56+     85 0.352941     0.0    0    1 0.480721
+
+==== enabler_results_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.307692     0.0    0    1 0.463324
+Trans Nzoia County     65 0.292308     0.0    0    1 0.458362
+
+==== enabler_results_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.280899     0.0    0    1 0.451985
+     Crop farming     104 0.326923     0.0    0    1 0.471361
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== enabler_results_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.292308     0.0    0    1 0.458362
+                       Mt Elgon     65 0.323077     0.0    0    1 0.471291
+               Trans-Nzoia West     65 0.292308     0.0    0    1 0.458362
+
+==== enabler_inputs_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.112821     0.0  0.0  1.0 0.317188
+
+==== enabler_inputs_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.118881     0.0    0    1 0.324786
+  Male     52 0.096154     0.0    0    1 0.297678
+
+==== enabler_inputs_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.055556     0.0    0    1 0.235702
+    36-45     29 0.103448     0.0    0    1 0.309934
+    46-55     62 0.096774     0.0    0    1 0.298064
+      56+     85 0.141176     0.0    0    1 0.350270
+
+==== enabler_inputs_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.115385     0.0    0    1 0.320721
+Trans Nzoia County     65 0.107692     0.0    0    1 0.312404
+
+==== enabler_inputs_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.044944     0.0    0    1 0.208355
+     Crop farming     104 0.173077     0.0    0    1 0.380146
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== enabler_inputs_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.153846     0.0    0    1 0.363609
+                       Mt Elgon     65 0.076923     0.0    0    1 0.268543
+               Trans-Nzoia West     65 0.107692     0.0    0    1 0.312404
+
+==== enabler_other_overall ====
+
+ count  mean  median  min  max  std
+ 180.0   0.0     0.0  0.0  0.0  0.0
+
+==== enabler_other_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    132   0.0     0.0  0.0  0.0  0.0
+  Male     48   0.0     0.0  0.0  0.0  0.0
+
+==== enabler_other_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0  0.0  0.0  NaN
+   26-35      16   0.0     0.0  0.0  0.0  0.0
+    36-45     28   0.0     0.0  0.0  0.0  0.0
+    46-55     58   0.0     0.0  0.0  0.0  0.0
+      56+     77   0.0     0.0  0.0  0.0  0.0
+
+==== enabler_other_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    115   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County     65   0.0     0.0  0.0  0.0  0.0
+
+==== enabler_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     80   0.0     0.0  0.0  0.0  0.0
+     Crop farming      98   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      1   0.0     0.0  0.0  0.0  NaN
+   Other (specify)      1   0.0     0.0  0.0  0.0  NaN
+
+==== enabler_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     65   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     50   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West     65   0.0     0.0  0.0  0.0  0.0
+
+==== enabler_other1_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.010256     0.0  0.0  1.0 0.101013
+
+==== enabler_other1_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.013986     0.0    0    1 0.117845
+  Male     52 0.000000     0.0    0    0 0.000000
+
+==== enabler_other1_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.023529     0.0    0    1 0.152477
+
+==== enabler_other1_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.000000     0.0    0    0 0.000000
+Trans Nzoia County     65 0.030769     0.0    0    1 0.174036
+
+==== enabler_other1_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max   std
+  Crop & Livestock     89 0.000000     0.0    0    0 0.000
+     Crop farming     104 0.019231     0.0    0    1 0.138
+ Livestock rearing      1 0.000000     0.0    0    0   NaN
+   Other (specify)      1 0.000000     0.0    0    0   NaN
+
+==== enabler_other1_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.000000     0.0    0    0 0.000000
+                       Mt Elgon     65 0.000000     0.0    0    0 0.000000
+               Trans-Nzoia West     65 0.030769     0.0    0    1 0.174036
+
+==== barrier_cost_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.569231     1.0  0.0  1.0 0.496459
+
+==== barrier_cost_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.594406     1.0    0    1 0.492733
+  Male     52 0.500000     0.5    0    1 0.504878
+
+==== barrier_cost_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.666667     1.0    0    1 0.485071
+    36-45     29 0.448276     0.0    0    1 0.506120
+    46-55     62 0.596774     1.0    0    1 0.494550
+      56+     85 0.576471     1.0    0    1 0.497050
+
+==== barrier_cost_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.569231     1.0    0    1 0.497100
+Trans Nzoia County     65 0.569231     1.0    0    1 0.499038
+
+==== barrier_cost_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.561798     1.0    0    1 0.498978
+     Crop farming     104 0.576923     1.0    0    1 0.496440
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_cost_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.523077     1.0    0    1 0.503354
+                       Mt Elgon     65 0.615385     1.0    0    1 0.490290
+               Trans-Nzoia West     65 0.569231     1.0    0    1 0.499038
+
+==== barrier_labor_overall ====
+
+ count  mean  median  min  max  std
+ 180.0   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_labor_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    132   0.0     0.0  0.0  0.0  0.0
+  Male     48   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_labor_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0  0.0  0.0  NaN
+   26-35      16   0.0     0.0  0.0  0.0  0.0
+    36-45     28   0.0     0.0  0.0  0.0  0.0
+    46-55     58   0.0     0.0  0.0  0.0  0.0
+      56+     77   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_labor_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    115   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County     65   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_labor_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     80   0.0     0.0  0.0  0.0  0.0
+     Crop farming      98   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      1   0.0     0.0  0.0  0.0  NaN
+   Other (specify)      1   0.0     0.0  0.0  0.0  NaN
+
+==== barrier_labor_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     65   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     50   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West     65   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_knowledge_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.235897     0.0  0.0  1.0 0.425651
+
+==== barrier_knowledge_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.216783     0.0    0    1 0.413502
+  Male     52 0.288462     0.0    0    1 0.457467
+
+==== barrier_knowledge_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.275862     0.0    0    1 0.454859
+    46-55     62 0.193548     0.0    0    1 0.398304
+      56+     85 0.305882     0.0    0    1 0.463515
+
+==== barrier_knowledge_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.261538     0.0    0    1 0.441173
+Trans Nzoia County     65 0.184615     0.0    0    1 0.391005
+
+==== barrier_knowledge_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.179775     0.0    0    1 0.386176
+     Crop farming     104 0.288462     0.0    0    1 0.455241
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_knowledge_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.292308     0.0    0    1 0.458362
+                       Mt Elgon     65 0.230769     0.0    0    1 0.424604
+               Trans-Nzoia West     65 0.184615     0.0    0    1 0.391005
+
+==== barrier_climate_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.348718     0.0  0.0  1.0 0.477791
+
+==== barrier_climate_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.363636     0.0    0    1 0.482737
+  Male     52 0.307692     0.0    0    1 0.466041
+
+==== barrier_climate_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.448276     0.0    0    1 0.506120
+    46-55     62 0.322581     0.0    0    1 0.471280
+      56+     85 0.341176     0.0    0    1 0.476918
+
+==== barrier_climate_by_county_name ====
+
+       county_name  count     mean  median  min  max     std
+    Bungoma County    130 0.330769     0.0    0    1 0.47231
+Trans Nzoia County     65 0.384615     0.0    0    1 0.49029
+
+==== barrier_climate_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.415730     0.0    0    1 0.495640
+     Crop farming     104 0.288462     0.0    0    1 0.455241
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== barrier_climate_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.323077     0.0    0    1 0.471291
+                       Mt Elgon     65 0.338462     0.0    0    1 0.476869
+               Trans-Nzoia West     65 0.384615     0.0    0    1 0.490290
+
+==== barrier_pests_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.358974     0.0  0.0  1.0 0.480934
+
+==== barrier_pests_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.363636     0.0    0    1 0.482737
+  Male     52 0.346154     0.0    0    1 0.480384
+
+==== barrier_pests_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.413793     0.0    0    1 0.501230
+    46-55     62 0.354839     0.0    0    1 0.482370
+      56+     85 0.352941     0.0    0    1 0.480721
+
+==== barrier_pests_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.400000     0.0    0    1 0.491793
+Trans Nzoia County     65 0.276923     0.0    0    1 0.450961
+
+==== barrier_pests_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.348315     0.0    0    1 0.479136
+     Crop farming     104 0.355769     0.0    0    1 0.481064
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== barrier_pests_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.415385     0.0    0    1 0.496623
+                       Mt Elgon     65 0.384615     0.0    0    1 0.490290
+               Trans-Nzoia West     65 0.276923     0.0    0    1 0.450961
+
+==== barrier_water_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.189744     0.0  0.0  1.0 0.393107
+
+==== barrier_water_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.216783     0.0    0    1 0.413502
+  Male     52 0.115385     0.0    0    1 0.322603
+
+==== barrier_water_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.172414     0.0    0    1 0.384426
+    46-55     62 0.161290     0.0    0    1 0.370801
+      56+     85 0.188235     0.0    0    1 0.393220
+
+==== barrier_water_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.169231     0.0    0    1 0.376406
+Trans Nzoia County     65 0.230769     0.0    0    1 0.424604
+
+==== barrier_water_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.179775     0.0    0    1 0.386176
+     Crop farming     104 0.201923     0.0    0    1 0.403379
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_water_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.138462     0.0    0    1 0.348072
+                       Mt Elgon     65 0.200000     0.0    0    1 0.403113
+               Trans-Nzoia West     65 0.230769     0.0    0    1 0.424604
+
+==== barrier_conflict_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.015385     0.0  0.0  1.0 0.123394
+
+==== barrier_conflict_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.006993     0.0    0    1 0.083624
+  Male     52 0.038462     0.0    0    1 0.194184
+
+==== barrier_conflict_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.023529     0.0    0    1 0.152477
+
+==== barrier_conflict_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.023077     0.0    0    1 0.150729
+Trans Nzoia County     65 0.000000     0.0    0    0 0.000000
+
+==== barrier_conflict_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max   std
+  Crop & Livestock     89 0.011236     0.0    0    1 0.106
+     Crop farming     104 0.019231     0.0    0    1 0.138
+ Livestock rearing      1 0.000000     0.0    0    0   NaN
+   Other (specify)      1 0.000000     0.0    0    0   NaN
+
+==== barrier_conflict_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.046154     0.0    0    1 0.211451
+                       Mt Elgon     65 0.000000     0.0    0    0 0.000000
+               Trans-Nzoia West     65 0.000000     0.0    0    0 0.000000
+
+==== barrier_challenges_other_overall ====
+
+ count  mean  median  min  max  std
+ 180.0   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_challenges_other_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    132   0.0     0.0  0.0  0.0  0.0
+  Male     48   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_challenges_other_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0  0.0  0.0  NaN
+   26-35      16   0.0     0.0  0.0  0.0  0.0
+    36-45     28   0.0     0.0  0.0  0.0  0.0
+    46-55     58   0.0     0.0  0.0  0.0  0.0
+      56+     77   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_challenges_other_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    115   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County     65   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_challenges_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     80   0.0     0.0  0.0  0.0  0.0
+     Crop farming      98   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      1   0.0     0.0  0.0  0.0  NaN
+   Other (specify)      1   0.0     0.0  0.0  0.0  NaN
+
+==== barrier_challenges_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     65   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     50   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West     65   0.0     0.0  0.0  0.0  0.0
+
+==== barrier_more_labour_time_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.225641     0.0  0.0  1.0 0.41908
+
+==== barrier_more_labour_time_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.244755     0.0    0    1 0.431453
+  Male     52 0.173077     0.0    0    1 0.382005
+
+==== barrier_more_labour_time_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.222222     0.0    0    1 0.427793
+    36-45     29 0.310345     0.0    0    1 0.470824
+    46-55     62 0.225806     0.0    0    1 0.421526
+      56+     85 0.200000     0.0    0    1 0.402374
+
+==== barrier_more_labour_time_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.238462     0.0    0    1 0.427791
+Trans Nzoia County     65 0.200000     0.0    0    1 0.403113
+
+==== barrier_more_labour_time_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.179775     0.0    0    1 0.386176
+     Crop farming     104 0.269231     0.0    0    1 0.445708
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_more_labour_time_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.276923     0.0    0    1 0.450961
+                       Mt Elgon     65 0.200000     0.0    0    1 0.403113
+               Trans-Nzoia West     65 0.200000     0.0    0    1 0.403113
+
+==== barrier_challenges_other1_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.051282     0.0  0.0  1.0 0.22114
+
+==== barrier_challenges_other1_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.041958     0.0    0    1 0.201198
+  Male     52 0.076923     0.0    0    1 0.269069
+
+==== barrier_challenges_other1_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.080645     0.0    0    1 0.274512
+      56+     85 0.047059     0.0    0    1 0.213021
+
+==== barrier_challenges_other1_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.038462     0.0    0    1 0.193052
+Trans Nzoia County     65 0.076923     0.0    0    1 0.268543
+
+==== barrier_challenges_other1_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.044944     0.0    0    1 0.208355
+     Crop farming     104 0.057692     0.0    0    1 0.234290
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_challenges_other1_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.000000     0.0    0    0 0.000000
+                       Mt Elgon     65 0.076923     0.0    0    1 0.268543
+               Trans-Nzoia West     65 0.076923     0.0    0    1 0.268543
+
+==== barrier_continue_money_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.225641     0.0  0.0  1.0 0.41908
+
+==== barrier_continue_money_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.230769     0.0    0    1 0.422806
+  Male     52 0.211538     0.0    0    1 0.412384
+
+==== barrier_continue_money_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.222222     0.0    0    1 0.427793
+    36-45     29 0.206897     0.0    0    1 0.412251
+    46-55     62 0.161290     0.0    0    1 0.370801
+      56+     85 0.282353     0.0    0    1 0.452816
+
+==== barrier_continue_money_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.215385     0.0    0    1 0.412679
+Trans Nzoia County     65 0.246154     0.0    0    1 0.434122
+
+==== barrier_continue_money_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max     std
+  Crop & Livestock     89 0.337079     0.0    0    1 0.47539
+     Crop farming     104 0.125000     0.0    0    1 0.33232
+ Livestock rearing      1 1.000000     1.0    1    1     NaN
+   Other (specify)      1 0.000000     0.0    0    0     NaN
+
+==== barrier_continue_money_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.200000     0.0    0    1 0.403113
+                       Mt Elgon     65 0.230769     0.0    0    1 0.424604
+               Trans-Nzoia West     65 0.246154     0.0    0    1 0.434122
+
+==== barrier_continue_equipment_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.153846     0.0  0.0  1.0 0.36173
+
+==== barrier_continue_equipment_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.146853     0.0    0    1 0.355204
+  Male     52 0.173077     0.0    0    1 0.382005
+
+==== barrier_continue_equipment_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.111111     0.0    0    1 0.323381
+    36-45     29 0.172414     0.0    0    1 0.384426
+    46-55     62 0.080645     0.0    0    1 0.274512
+      56+     85 0.211765     0.0    0    1 0.410984
+
+==== barrier_continue_equipment_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.176923     0.0    0    1 0.383080
+Trans Nzoia County     65 0.107692     0.0    0    1 0.312404
+
+==== barrier_continue_equipment_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.269663     0.0    0    1 0.446299
+     Crop farming     104 0.048077     0.0    0    1 0.214965
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_continue_equipment_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.138462     0.0    0    1 0.348072
+                       Mt Elgon     65 0.215385     0.0    0    1 0.414288
+               Trans-Nzoia West     65 0.107692     0.0    0    1 0.312404
+
+==== barrier_continue_advice_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.035897     0.0  0.0  1.0 0.186513
+
+==== barrier_continue_advice_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.034965     0.0    0    1 0.184337
+  Male     52 0.038462     0.0    0    1 0.194184
+
+==== barrier_continue_advice_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.055556     0.0    0    1 0.235702
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.058824     0.0    0    1 0.236691
+
+==== barrier_continue_advice_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.046154     0.0    0    1 0.210630
+Trans Nzoia County     65 0.015385     0.0    0    1 0.124035
+
+==== barrier_continue_advice_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.044944     0.0    0    1 0.208355
+     Crop farming     104 0.028846     0.0    0    1 0.168185
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_continue_advice_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.076923     0.0    0    1 0.268543
+                       Mt Elgon     65 0.015385     0.0    0    1 0.124035
+               Trans-Nzoia West     65 0.015385     0.0    0    1 0.124035
+
+==== barrier_continue_market_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.097436     0.0  0.0  1.0 0.297314
+
+==== barrier_continue_market_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.111888     0.0    0    1 0.316337
+  Male     52 0.057692     0.0    0    1 0.235435
+
+==== barrier_continue_market_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.166667     0.0    0    1 0.383482
+    36-45     29 0.068966     0.0    0    1 0.257881
+    46-55     62 0.096774     0.0    0    1 0.298064
+      56+     85 0.094118     0.0    0    1 0.293725
+
+==== barrier_continue_market_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.115385     0.0    0    1 0.320721
+Trans Nzoia County     65 0.061538     0.0    0    1 0.242186
+
+==== barrier_continue_market_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.056180     0.0    0    1 0.231573
+     Crop farming     104 0.134615     0.0    0    1 0.342965
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_continue_market_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.138462     0.0    0    1 0.348072
+                       Mt Elgon     65 0.092308     0.0    0    1 0.291712
+               Trans-Nzoia West     65 0.061538     0.0    0    1 0.242186
+
+==== barrier_continue_labor_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.015385     0.0  0.0  1.0 0.123394
+
+==== barrier_continue_labor_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.020979     0.0    0    1 0.143818
+  Male     52 0.000000     0.0    0    0 0.000000
+
+==== barrier_continue_labor_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.055556     0.0    0    1 0.235702
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.016129     0.0    0    1 0.127000
+      56+     85 0.011765     0.0    0    1 0.108465
+
+==== barrier_continue_labor_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.015385     0.0    0    1 0.123553
+Trans Nzoia County     65 0.015385     0.0    0    1 0.124035
+
+==== barrier_continue_labor_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.033708     0.0    0    1 0.181499
+     Crop farming     104 0.000000     0.0    0    0 0.000000
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_continue_labor_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.000000     0.0    0    0 0.000000
+                       Mt Elgon     65 0.030769     0.0    0    1 0.174036
+               Trans-Nzoia West     65 0.015385     0.0    0    1 0.124035
+
+==== barrier_continue_none_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.687179     1.0  0.0  1.0 0.464835
+
+==== barrier_continue_none_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.685315     1.0    0    1 0.466023
+  Male     52 0.692308     1.0    0    1 0.466041
+
+==== barrier_continue_none_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.666667     1.0    0    1 0.485071
+    36-45     29 0.862069     1.0    0    1 0.350931
+    46-55     62 0.677419     1.0    0    1 0.471280
+      56+     85 0.635294     1.0    0    1 0.484204
+
+==== barrier_continue_none_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.700000     1.0    0    1 0.460030
+Trans Nzoia County     65 0.661538     1.0    0    1 0.476869
+
+==== barrier_continue_none_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.584270     1.0    0    1 0.495640
+     Crop farming     104 0.778846     1.0    0    1 0.417034
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== barrier_continue_none_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.676923     1.0    0    1 0.471291
+                       Mt Elgon     65 0.723077     1.0    0    1 0.450961
+               Trans-Nzoia West     65 0.661538     1.0    0    1 0.476869
+
+==== barrier_continue_other_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.020513     0.0  0.0  1.0 0.142111
+
+==== barrier_continue_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.020979     0.0    0    1 0.143818
+  Male     52 0.019231     0.0    0    1 0.138675
+
+==== barrier_continue_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.016129     0.0    0    1 0.127000
+      56+     85 0.035294     0.0    0    1 0.185617
+
+==== barrier_continue_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.007692     0.0    0    1 0.087706
+Trans Nzoia County     65 0.046154     0.0    0    1 0.211451
+
+==== barrier_continue_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.022472     0.0    0    1 0.149052
+     Crop farming     104 0.019231     0.0    0    1 0.138000
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== barrier_continue_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.015385     0.0    0    1 0.124035
+                       Mt Elgon     65 0.000000     0.0    0    0 0.000000
+               Trans-Nzoia West     65 0.046154     0.0    0    1 0.211451
+
+==== advice_group_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.912821     1.0  0.0  1.0 0.282824
+
+==== advice_group_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.909091     1.0    0    1 0.288490
+  Male     52 0.923077     1.0    0    1 0.269069
+
+==== advice_group_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.944444     1.0    0    1 0.235702
+    36-45     29 0.965517     1.0    0    1 0.185695
+    46-55     62 0.919355     1.0    0    1 0.274512
+      56+     85 0.882353     1.0    0    1 0.324102
+
+==== advice_group_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.930769     1.0    0    1 0.254828
+Trans Nzoia County     65 0.876923     1.0    0    1 0.331082
+
+==== advice_group_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.887640     1.0    0    1 0.317598
+     Crop farming     104 0.942308     1.0    0    1 0.234290
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== advice_group_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.892308     1.0    0    1 0.312404
+                       Mt Elgon     65 0.969231     1.0    0    1 0.174036
+               Trans-Nzoia West     65 0.876923     1.0    0    1 0.331082
+
+==== advice_gov_overall ====
+
+ count    mean  median  min  max      std
+ 195.0 0.05641     0.0  0.0  1.0 0.231306
+
+==== advice_gov_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.062937     0.0    0    1 0.243703
+  Male     52 0.038462     0.0    0    1 0.194184
+
+==== advice_gov_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.048387     0.0    0    1 0.216335
+      56+     85 0.082353     0.0    0    1 0.276533
+
+==== advice_gov_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.046154     0.0    0    1 0.210630
+Trans Nzoia County     65 0.076923     0.0    0    1 0.268543
+
+==== advice_gov_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.056180     0.0    0    1 0.231573
+     Crop farming     104 0.057692     0.0    0    1 0.234290
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== advice_gov_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.061538     0.0    0    1 0.242186
+                       Mt Elgon     65 0.030769     0.0    0    1 0.174036
+               Trans-Nzoia West     65 0.076923     0.0    0    1 0.268543
+
+==== advice_agrodealer_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.041026     0.0  0.0  1.0 0.19886
+
+==== advice_agrodealer_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.041958     0.0    0    1 0.201198
+  Male     52 0.038462     0.0    0    1 0.194184
+
+==== advice_agrodealer_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.048387     0.0    0    1 0.216335
+      56+     85 0.058824     0.0    0    1 0.236691
+
+==== advice_agrodealer_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.046154     0.0    0    1 0.210630
+Trans Nzoia County     65 0.030769     0.0    0    1 0.174036
+
+==== advice_agrodealer_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.011236     0.0    0    1 0.106000
+     Crop farming     104 0.067308     0.0    0    1 0.251767
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== advice_agrodealer_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.046154     0.0    0    1 0.211451
+                       Mt Elgon     65 0.046154     0.0    0    1 0.211451
+               Trans-Nzoia West     65 0.030769     0.0    0    1 0.174036
+
+==== advice_otherfarmers_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.148718     0.0  0.0  1.0 0.356726
+
+==== advice_otherfarmers_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.160839     0.0    0    1 0.368674
+  Male     52 0.115385     0.0    0    1 0.322603
+
+==== advice_otherfarmers_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.177419     0.0    0    1 0.385142
+      56+     85 0.200000     0.0    0    1 0.402374
+
+==== advice_otherfarmers_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.176923     0.0    0    1 0.383080
+Trans Nzoia County     65 0.092308     0.0    0    1 0.291712
+
+==== advice_otherfarmers_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.067416     0.0    0    1 0.252161
+     Crop farming     104 0.211538     0.0    0    1 0.410377
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== advice_otherfarmers_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.246154     0.0    0    1 0.434122
+                       Mt Elgon     65 0.107692     0.0    0    1 0.312404
+               Trans-Nzoia West     65 0.092308     0.0    0    1 0.291712
+
+==== advice_unknown_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.020513     0.0  0.0  1.0 0.142111
+
+==== advice_unknown_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.020979     0.0    0    1 0.143818
+  Male     52 0.019231     0.0    0    1 0.138675
+
+==== advice_unknown_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.035294     0.0    0    1 0.185617
+
+==== advice_unknown_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.015385     0.0    0    1 0.123553
+Trans Nzoia County     65 0.030769     0.0    0    1 0.174036
+
+==== advice_unknown_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.011236     0.0    0    1 0.106000
+     Crop farming     104 0.028846     0.0    0    1 0.168185
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== advice_unknown_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.015385     0.0    0    1 0.124035
+                       Mt Elgon     65 0.015385     0.0    0    1 0.124035
+               Trans-Nzoia West     65 0.030769     0.0    0    1 0.174036
+
+==== advice_other_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.092308     0.0  0.0  1.0 0.290205
+
+==== advice_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.090909     0.0    0    1 0.288490
+  Male     52 0.096154     0.0    0    1 0.297678
+
+==== advice_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.111111     0.0    0    1 0.323381
+    36-45     29 0.103448     0.0    0    1 0.309934
+    46-55     62 0.080645     0.0    0    1 0.274512
+      56+     85 0.094118     0.0    0    1 0.293725
+
+==== advice_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.092308     0.0    0    1 0.290580
+Trans Nzoia County     65 0.092308     0.0    0    1 0.291712
+
+==== advice_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.157303     0.0    0    1 0.366149
+     Crop farming     104 0.028846     0.0    0    1 0.168185
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== advice_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.092308     0.0    0    1 0.291712
+                       Mt Elgon     65 0.092308     0.0    0    1 0.291712
+               Trans-Nzoia West     65 0.092308     0.0    0    1 0.291712
+
+==== future_market_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.687179     1.0  0.0  1.0 0.464835
+
+==== future_market_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.706294     1.0    0    1 0.457060
+  Male     52 0.634615     1.0    0    1 0.486236
+
+==== future_market_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.777778     1.0    0    1 0.427793
+    36-45     29 0.689655     1.0    0    1 0.470824
+    46-55     62 0.677419     1.0    0    1 0.471280
+      56+     85 0.682353     1.0    0    1 0.468324
+
+==== future_market_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.692308     1.0    0    1 0.463324
+Trans Nzoia County     65 0.676923     1.0    0    1 0.471291
+
+==== future_market_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.696629     1.0    0    1 0.462319
+     Crop farming     104 0.682692     1.0    0    1 0.467682
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== future_market_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.615385     1.0    0    1 0.490290
+                       Mt Elgon     65 0.769231     1.0    0    1 0.424604
+               Trans-Nzoia West     65 0.676923     1.0    0    1 0.471291
+
+==== future_irrigation_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.420513     0.0  0.0  1.0 0.494912
+
+==== future_irrigation_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.412587     0.0    0    1 0.494030
+  Male     52 0.442308     0.0    0    1 0.501506
+
+==== future_irrigation_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.500000     0.5    0    1 0.514496
+    36-45     29 0.448276     0.0    0    1 0.506120
+    46-55     62 0.419355     0.0    0    1 0.497482
+      56+     85 0.400000     0.0    0    1 0.492805
+
+==== future_irrigation_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.446154     0.0    0    1 0.499015
+Trans Nzoia County     65 0.369231     0.0    0    1 0.486352
+
+==== future_irrigation_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.404494     0.0    0    1 0.493575
+     Crop farming     104 0.423077     0.0    0    1 0.496440
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== future_irrigation_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.400000     0.0    0    1 0.493710
+                       Mt Elgon     65 0.492308     0.0    0    1 0.503831
+               Trans-Nzoia West     65 0.369231     0.0    0    1 0.486352
+
+==== future_loans_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.517949     1.0  0.0  1.0 0.500964
+
+==== future_loans_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.538462     1.0    0    1 0.500271
+  Male     52 0.461538     0.0    0    1 0.503382
+
+==== future_loans_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.555556     1.0    0    1 0.511310
+    36-45     29 0.482759     0.0    0    1 0.508548
+    46-55     62 0.483871     0.0    0    1 0.503819
+      56+     85 0.552941     1.0    0    1 0.500140
+
+==== future_loans_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.523077     1.0    0    1 0.501399
+Trans Nzoia County     65 0.507692     1.0    0    1 0.503831
+
+==== future_loans_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.595506     1.0    0    1 0.493575
+     Crop farming     104 0.451923     0.0    0    1 0.500093
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== future_loans_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.538462     1.0    0    1 0.502398
+                       Mt Elgon     65 0.507692     1.0    0    1 0.503831
+               Trans-Nzoia West     65 0.507692     1.0    0    1 0.503831
+
+==== future_training_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.420513     0.0  0.0  1.0 0.494912
+
+==== future_training_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.440559     0.0    0    1 0.498199
+  Male     52 0.365385     0.0    0    1 0.486236
+
+==== future_training_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.388889     0.0    0    1 0.501631
+    36-45     29 0.344828     0.0    0    1 0.483725
+    46-55     62 0.387097     0.0    0    1 0.491062
+      56+     85 0.482353     0.0    0    1 0.502654
+
+==== future_training_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.446154     0.0    0    1 0.499015
+Trans Nzoia County     65 0.369231     0.0    0    1 0.486352
+
+==== future_training_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.449438     0.0    0    1 0.500255
+     Crop farming     104 0.403846     0.0    0    1 0.493043
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== future_training_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.507692     1.0    0    1 0.503831
+                       Mt Elgon     65 0.384615     0.0    0    1 0.490290
+               Trans-Nzoia West     65 0.369231     0.0    0    1 0.486352
+
+==== future_youth_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.102564     0.0  0.0  1.0 0.30417
+
+==== future_youth_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.097902     0.0    0    1 0.298227
+  Male     52 0.115385     0.0    0    1 0.322603
+
+==== future_youth_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.055556     0.0    0    1 0.235702
+    36-45     29 0.068966     0.0    0    1 0.257881
+    46-55     62 0.064516     0.0    0    1 0.247676
+      56+     85 0.141176     0.0    0    1 0.350270
+
+==== future_youth_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.107692     0.0    0    1 0.311191
+Trans Nzoia County     65 0.092308     0.0    0    1 0.291712
+
+==== future_youth_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.067416     0.0    0    1 0.252161
+     Crop farming     104 0.125000     0.0    0    1 0.332320
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== future_youth_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.092308     0.0    0    1 0.291712
+                       Mt Elgon     65 0.123077     0.0    0    1 0.331082
+               Trans-Nzoia West     65 0.092308     0.0    0    1 0.291712
+
+==== future_other_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.020513     0.0  0.0  1.0 0.142111
+
+==== future_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.027972     0.0    0    1 0.165472
+  Male     52 0.000000     0.0    0    0 0.000000
+
+==== future_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.048387     0.0    0    1 0.216335
+      56+     85 0.011765     0.0    0    1 0.108465
+
+==== future_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.015385     0.0    0    1 0.123553
+Trans Nzoia County     65 0.030769     0.0    0    1 0.174036
+
+==== future_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.022472     0.0    0    1 0.149052
+     Crop farming     104 0.019231     0.0    0    1 0.138000
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== future_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.015385     0.0    0    1 0.124035
+                       Mt Elgon     65 0.015385     0.0    0    1 0.124035
+               Trans-Nzoia West     65 0.030769     0.0    0    1 0.174036
+
+==== inclusive_sufficient_overall ====
+
+ count     mean  median  min  max     std
+ 195.0 0.276923     0.0  0.0  1.0 0.44863
+
+==== inclusive_sufficient_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.258741     0.0    0    1 0.439483
+  Male     52 0.326923     0.0    0    1 0.473665
+
+==== inclusive_sufficient_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.388889     0.0    0    1 0.501631
+    36-45     29 0.310345     0.0    0    1 0.470824
+    46-55     62 0.290323     0.0    0    1 0.457617
+      56+     85 0.235294     0.0    0    1 0.426700
+
+==== inclusive_sufficient_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.253846     0.0    0    1 0.436894
+Trans Nzoia County     65 0.323077     0.0    0    1 0.471291
+
+==== inclusive_sufficient_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.168539     0.0    0    1 0.376465
+     Crop farming     104 0.375000     0.0    0    1 0.486467
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== inclusive_sufficient_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.261538     0.0    0    1 0.442893
+                       Mt Elgon     65 0.246154     0.0    0    1 0.434122
+               Trans-Nzoia West     65 0.323077     0.0    0    1 0.471291
+
+==== inclusive_other_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.020513     0.0  0.0  1.0 0.142111
+
+==== inclusive_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.020979     0.0    0    1 0.143818
+  Male     52 0.019231     0.0    0    1 0.138675
+
+==== inclusive_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.055556     0.0    0    1 0.235702
+    36-45     29 0.034483     0.0    0    1 0.185695
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.023529     0.0    0    1 0.152477
+
+==== inclusive_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.023077     0.0    0    1 0.150729
+Trans Nzoia County     65 0.015385     0.0    0    1 0.124035
+
+==== inclusive_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.033708     0.0    0    1 0.181499
+     Crop farming     104 0.009615     0.0    0    1 0.098058
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== inclusive_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.000000     0.0    0    0 0.000000
+                       Mt Elgon     65 0.046154     0.0    0    1 0.211451
+               Trans-Nzoia West     65 0.015385     0.0    0    1 0.124035
+
+==== inclusive_meet_convenient_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.558974     1.0  0.0  1.0 0.497788
+
+==== inclusive_meet_convenient_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.587413     1.0    0    1 0.494030
+  Male     52 0.480769     0.0    0    1 0.504505
+
+==== inclusive_meet_convenient_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.388889     0.0    0    1 0.501631
+    36-45     29 0.551724     1.0    0    1 0.506120
+    46-55     62 0.532258     1.0    0    1 0.503032
+      56+     85 0.623529     1.0    0    1 0.487376
+
+==== inclusive_meet_convenient_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.553846     1.0    0    1 0.499015
+Trans Nzoia County     65 0.569231     1.0    0    1 0.499038
+
+==== inclusive_meet_convenient_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.696629     1.0    0    1 0.462319
+     Crop farming     104 0.432692     0.0    0    1 0.497848
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 1.000000     1.0    1    1      NaN
+
+==== inclusive_meet_convenient_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.553846     1.0    0    1 0.500961
+                       Mt Elgon     65 0.553846     1.0    0    1 0.500961
+               Trans-Nzoia West     65 0.569231     1.0    0    1 0.499038
+
+==== inclusive_childcare_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.061538     0.0  0.0  1.0 0.240934
+
+==== inclusive_childcare_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.069930     0.0    0    1 0.255926
+  Male     52 0.038462     0.0    0    1 0.194184
+
+==== inclusive_childcare_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.016129     0.0    0    1 0.127000
+      56+     85 0.129412     0.0    0    1 0.337647
+
+==== inclusive_childcare_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.061538     0.0    0    1 0.241245
+Trans Nzoia County     65 0.061538     0.0    0    1 0.242186
+
+==== inclusive_childcare_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.056180     0.0    0    1 0.231573
+     Crop farming     104 0.067308     0.0    0    1 0.251767
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== inclusive_childcare_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.076923     0.0    0    1 0.268543
+                       Mt Elgon     65 0.046154     0.0    0    1 0.211451
+               Trans-Nzoia West     65 0.061538     0.0    0    1 0.242186
+
+==== inclusive_affordable_materials_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.451282     0.0  0.0  1.0 0.498902
+
+==== inclusive_affordable_materials_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.447552     0.0    0    1 0.498989
+  Male     52 0.461538     0.0    0    1 0.503382
+
+==== inclusive_affordable_materials_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.333333     0.0    0    1 0.485071
+    36-45     29 0.344828     0.0    0    1 0.483725
+    46-55     62 0.483871     0.0    0    1 0.503819
+      56+     85 0.494118     0.0    0    1 0.502933
+
+==== inclusive_affordable_materials_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.492308     0.0    0    1 0.501875
+Trans Nzoia County     65 0.369231     0.0    0    1 0.486352
+
+==== inclusive_affordable_materials_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.382022     0.0    0    1 0.488635
+     Crop farming     104 0.509615     1.0    0    1 0.502328
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== inclusive_affordable_materials_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.476923     0.0    0    1 0.503354
+                       Mt Elgon     65 0.507692     1.0    0    1 0.503831
+               Trans-Nzoia West     65 0.369231     0.0    0    1 0.486352
+
+==== inclusive_sessions_youth_overall ====
+
+ count  mean  median  min  max     std
+ 195.0   0.2     0.0  0.0  1.0 0.40103
+
+==== inclusive_sessions_youth_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.216783     0.0    0    1 0.413502
+  Male     52 0.153846     0.0    0    1 0.364321
+
+==== inclusive_sessions_youth_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.111111     0.0    0    1 0.323381
+    36-45     29 0.137931     0.0    0    1 0.350931
+    46-55     62 0.161290     0.0    0    1 0.370801
+      56+     85 0.258824     0.0    0    1 0.440588
+
+==== inclusive_sessions_youth_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.161538     0.0    0    1 0.369451
+Trans Nzoia County     65 0.276923     0.0    0    1 0.450961
+
+==== inclusive_sessions_youth_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.168539     0.0    0    1 0.376465
+     Crop farming     104 0.221154     0.0    0    1 0.417034
+ Livestock rearing      1 1.000000     1.0    1    1      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== inclusive_sessions_youth_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.153846     0.0    0    1 0.363609
+                       Mt Elgon     65 0.169231     0.0    0    1 0.377874
+               Trans-Nzoia West     65 0.276923     0.0    0    1 0.450961
+
+==== support_business_training_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.651282     1.0  0.0  1.0 0.477791
+
+==== support_business_training_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.657343     1.0    0    1 0.476266
+  Male     52 0.634615     1.0    0    1 0.486236
+
+==== support_business_training_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0    1    1      NaN
+   26-35      18 0.555556     1.0    0    1 0.511310
+    36-45     29 0.517241     1.0    0    1 0.508548
+    46-55     62 0.677419     1.0    0    1 0.471280
+      56+     85 0.694118     1.0    0    1 0.463515
+
+==== support_business_training_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.692308     1.0    0    1 0.463324
+Trans Nzoia County     65 0.569231     1.0    0    1 0.499038
+
+==== support_business_training_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max     std
+  Crop & Livestock     89 0.662921     1.0    0    1 0.47539
+     Crop farming     104 0.634615     1.0    0    1 0.48387
+ Livestock rearing      1 1.000000     1.0    1    1     NaN
+   Other (specify)      1 1.000000     1.0    1    1     NaN
+
+==== support_business_training_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.753846     1.0    0    1 0.434122
+                       Mt Elgon     65 0.630769     1.0    0    1 0.486352
+               Trans-Nzoia West     65 0.569231     1.0    0    1 0.499038
+
+==== support_grant_or_loan_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.605128     1.0  0.0  1.0 0.490081
+
+==== support_grant_or_loan_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.622378     1.0    0    1 0.486496
+  Male     52 0.557692     1.0    0    1 0.501506
+
+==== support_grant_or_loan_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.555556     1.0    0    1 0.511310
+    36-45     29 0.620690     1.0    0    1 0.493804
+    46-55     62 0.596774     1.0    0    1 0.494550
+      56+     85 0.623529     1.0    0    1 0.487376
+
+==== support_grant_or_loan_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.569231     1.0    0    1 0.497100
+Trans Nzoia County     65 0.676923     1.0    0    1 0.471291
+
+==== support_grant_or_loan_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max     std
+  Crop & Livestock     89 0.707865     1.0    0    1 0.45732
+     Crop farming     104 0.519231     1.0    0    1 0.50205
+ Livestock rearing      1 0.000000     0.0    0    0     NaN
+   Other (specify)      1 1.000000     1.0    1    1     NaN
+
+==== support_grant_or_loan_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.630769     1.0    0    1 0.486352
+                       Mt Elgon     65 0.507692     1.0    0    1 0.503831
+               Trans-Nzoia West     65 0.676923     1.0    0    1 0.471291
+
+==== support_market_linkages_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.461538     0.0  0.0  1.0 0.499802
+
+==== support_market_linkages_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.482517     0.0    0    1 0.501451
+  Male     52 0.403846     0.0    0    1 0.495454
+
+==== support_market_linkages_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.555556     1.0    0    1 0.511310
+    36-45     29 0.448276     0.0    0    1 0.506120
+    46-55     62 0.483871     0.0    0    1 0.503819
+      56+     85 0.435294     0.0    0    1 0.498738
+
+==== support_market_linkages_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.461538     0.0    0    1 0.500447
+Trans Nzoia County     65 0.461538     0.0    0    1 0.502398
+
+==== support_market_linkages_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.404494     0.0    0    1 0.493575
+     Crop farming     104 0.519231     1.0    0    1 0.502050
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== support_market_linkages_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.430769     0.0    0    1 0.499038
+                       Mt Elgon     65 0.492308     0.0    0    1 0.503831
+               Trans-Nzoia West     65 0.461538     0.0    0    1 0.502398
+
+==== support_leadership_training_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.323077     0.0  0.0  1.0 0.468856
+
+==== support_leadership_training_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.363636     0.0    0    1 0.482737
+  Male     52 0.211538     0.0    0    1 0.412384
+
+==== support_leadership_training_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.111111     0.0    0    1 0.323381
+    36-45     29 0.206897     0.0    0    1 0.412251
+    46-55     62 0.370968     0.0    0    1 0.487007
+      56+     85 0.376471     0.0    0    1 0.487376
+
+==== support_leadership_training_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.323077     0.0    0    1 0.469461
+Trans Nzoia County     65 0.323077     0.0    0    1 0.471291
+
+==== support_leadership_training_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.292135     0.0    0    1 0.457320
+     Crop farming     104 0.355769     0.0    0    1 0.481064
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== support_leadership_training_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.307692     0.0    0    1 0.465130
+                       Mt Elgon     65 0.338462     0.0    0    1 0.476869
+               Trans-Nzoia West     65 0.323077     0.0    0    1 0.471291
+
+==== support_coop_registration_overall ====
+
+ count  mean  median  min  max     std
+ 195.0   0.2     0.0  0.0  1.0 0.40103
+
+==== support_coop_registration_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.230769     0.0    0    1 0.422806
+  Male     52 0.115385     0.0    0    1 0.322603
+
+==== support_coop_registration_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.222222     0.0    0    1 0.427793
+    36-45     29 0.137931     0.0    0    1 0.350931
+    46-55     62 0.193548     0.0    0    1 0.398304
+      56+     85 0.223529     0.0    0    1 0.419083
+
+==== support_coop_registration_by_county_name ====
+
+       county_name  count  mean  median  min  max      std
+    Bungoma County    130   0.2     0.0    0    1 0.401547
+Trans Nzoia County     65   0.2     0.0    0    1 0.403113
+
+==== support_coop_registration_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     89 0.191011     0.0    0    1 0.395325
+     Crop farming     104 0.211538     0.0    0    1 0.410377
+ Livestock rearing      1 0.000000     0.0    0    0      NaN
+   Other (specify)      1 0.000000     0.0    0    0      NaN
+
+==== support_coop_registration_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.276923     0.0    0    1 0.450961
+                       Mt Elgon     65 0.123077     0.0    0    1 0.331082
+               Trans-Nzoia West     65 0.200000     0.0    0    1 0.403113
+
+==== support_none_self_reliant_overall ====
+
+ count     mean  median  min  max      std
+ 195.0 0.010256     0.0  0.0  1.0 0.101013
+
+==== support_none_self_reliant_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    143 0.013986     0.0    0    1 0.117845
+  Male     52 0.000000     0.0    0    0 0.000000
+
+==== support_none_self_reliant_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0    0    0      NaN
+   26-35      18 0.000000     0.0    0    0 0.000000
+    36-45     29 0.000000     0.0    0    0 0.000000
+    46-55     62 0.000000     0.0    0    0 0.000000
+      56+     85 0.023529     0.0    0    1 0.152477
+
+==== support_none_self_reliant_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    130 0.000000     0.0    0    0 0.000000
+Trans Nzoia County     65 0.030769     0.0    0    1 0.174036
+
+==== support_none_self_reliant_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max   std
+  Crop & Livestock     89 0.000000     0.0    0    0 0.000
+     Crop farming     104 0.019231     0.0    0    1 0.138
+ Livestock rearing      1 0.000000     0.0    0    0   NaN
+   Other (specify)      1 0.000000     0.0    0    0   NaN
+
+==== support_none_self_reliant_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     65 0.000000     0.0    0    0 0.000000
+                       Mt Elgon     65 0.000000     0.0    0    0 0.000000
+               Trans-Nzoia West     65 0.030769     0.0    0    1 0.174036
+
+==== health_impact_health_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.913514     1.0  0.0  1.0 0.281844
+
+==== health_impact_health_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.917293     1.0  0.0  1.0 0.276480
+  Male     52 0.903846     1.0  0.0  1.0 0.297678
+
+==== health_impact_health_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0  1.0  1.0      NaN
+   26-35      18 0.833333     1.0  0.0  1.0 0.383482
+    36-45     28 0.964286     1.0  0.0  1.0 0.188982
+    46-55     59 0.966102     1.0  0.0  1.0 0.182521
+      56+     79 0.873418     1.0  0.0  1.0 0.334629
+
+==== health_impact_health_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.933884     1.0  0.0  1.0 0.249517
+Trans Nzoia County     64 0.875000     1.0  0.0  1.0 0.333333
+
+==== health_impact_health_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     80 0.975000     1.0  0.0  1.0 0.157110
+     Crop farming     103 0.864078     1.0  0.0  1.0 0.344382
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 1.000000     1.0  1.0  1.0      NaN
+
+==== health_impact_health_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.901639     1.0  0.0  1.0 0.300273
+                       Mt Elgon     60 0.966667     1.0  0.0  1.0 0.181020
+               Trans-Nzoia West     64 0.875000     1.0  0.0  1.0 0.333333
+
+==== health_impact_env_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.427027     0.0  0.0  1.0 0.495989
+
+==== health_impact_env_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.451128     0.0  0.0  1.0 0.499487
+  Male     52 0.365385     0.0  0.0  1.0 0.486236
+
+==== health_impact_env_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0  1.0  1.0      NaN
+   26-35      18 0.500000     0.5  0.0  1.0 0.514496
+    36-45     28 0.250000     0.0  0.0  1.0 0.440959
+    46-55     59 0.423729     0.0  0.0  1.0 0.498390
+      56+     79 0.468354     0.0  0.0  1.0 0.502186
+
+==== health_impact_env_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.421488     0.0  0.0  1.0 0.495851
+Trans Nzoia County     64 0.437500     0.0  0.0  1.0 0.500000
+
+==== health_impact_env_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     80 0.300000     0.0  0.0  1.0 0.461149
+     Crop farming     103 0.524272     1.0  0.0  1.0 0.501853
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== health_impact_env_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.426230     0.0  0.0  1.0 0.498632
+                       Mt Elgon     60 0.416667     0.0  0.0  1.0 0.497167
+               Trans-Nzoia West     64 0.437500     0.0  0.0  1.0 0.500000
+
+==== health_impact_other_overall ====
+
+ count  mean  median  min  max  std
+ 185.0   0.0     0.0  0.0  0.0  0.0
+
+==== health_impact_other_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female    133   0.0     0.0  0.0  0.0  0.0
+  Male     52   0.0     0.0  0.0  0.0  0.0
+
+==== health_impact_other_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      1   0.0     0.0  0.0  0.0  NaN
+   26-35      18   0.0     0.0  0.0  0.0  0.0
+    36-45     28   0.0     0.0  0.0  0.0  0.0
+    46-55     59   0.0     0.0  0.0  0.0  0.0
+      56+     79   0.0     0.0  0.0  0.0  0.0
+
+==== health_impact_other_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County    121   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County     64   0.0     0.0  0.0  0.0  0.0
+
+==== health_impact_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     80   0.0     0.0  0.0  0.0  0.0
+     Crop farming     103   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      1   0.0     0.0  0.0  0.0  NaN
+   Other (specify)      1   0.0     0.0  0.0  0.0  NaN
+
+==== health_impact_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     61   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     60   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West     64   0.0     0.0  0.0  0.0  0.0
+
+==== health_source_eccras_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.962162     1.0  0.0  1.0 0.191322
+
+==== health_source_eccras_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.962406     1.0  0.0  1.0 0.190931
+  Male     52 0.961538     1.0  0.0  1.0 0.194184
+
+==== health_source_eccras_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 1.000000     1.0  1.0  1.0      NaN
+   26-35      18 0.944444     1.0  0.0  1.0 0.235702
+    36-45     28 0.928571     1.0  0.0  1.0 0.262265
+    46-55     59 0.966102     1.0  0.0  1.0 0.182521
+      56+     79 0.974684     1.0  0.0  1.0 0.158088
+
+==== health_source_eccras_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.950413     1.0  0.0  1.0 0.217992
+Trans Nzoia County     64 0.984375     1.0  0.0  1.0 0.125000
+
+==== health_source_eccras_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     80 0.962500     1.0  0.0  1.0 0.191182
+     Crop farming     103 0.961165     1.0  0.0  1.0 0.194146
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 1.000000     1.0  1.0  1.0      NaN
+
+==== health_source_eccras_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.950820     1.0  0.0  1.0 0.218039
+                       Mt Elgon     60 0.950000     1.0  0.0  1.0 0.219784
+               Trans-Nzoia West     64 0.984375     1.0  0.0  1.0 0.125000
+
+==== health_source_ngo_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.010811     0.0  0.0  1.0 0.103692
+
+==== health_source_ngo_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.007519     0.0  0.0  1.0 0.086711
+  Male     52 0.019231     0.0  0.0  1.0 0.138675
+
+==== health_source_ngo_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.000000     0.0  0.0  0.0 0.000000
+    36-45     28 0.000000     0.0  0.0  0.0 0.000000
+    46-55     59 0.000000     0.0  0.0  0.0 0.000000
+      56+     79 0.025316     0.0  0.0  1.0 0.158088
+
+==== health_source_ngo_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.016529     0.0  0.0  1.0 0.128028
+Trans Nzoia County     64 0.000000     0.0  0.0  0.0 0.000000
+
+==== health_source_ngo_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     80 0.012500     0.0  0.0  1.0 0.111803
+     Crop farming     103 0.009709     0.0  0.0  1.0 0.098533
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== health_source_ngo_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.016393     0.0  0.0  1.0 0.128037
+                       Mt Elgon     60 0.016667     0.0  0.0  1.0 0.129099
+               Trans-Nzoia West     64 0.000000     0.0  0.0  0.0 0.000000
+
+==== health_source_gov_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.032432     0.0  0.0  1.0 0.177626
+
+==== health_source_gov_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.037594     0.0  0.0  1.0 0.190931
+  Male     52 0.019231     0.0  0.0  1.0 0.138675
+
+==== health_source_gov_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.000000     0.0  0.0  0.0 0.000000
+    36-45     28 0.000000     0.0  0.0  0.0 0.000000
+    46-55     59 0.033898     0.0  0.0  1.0 0.182521
+      56+     79 0.050633     0.0  0.0  1.0 0.220648
+
+==== health_source_gov_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.041322     0.0  0.0  1.0 0.199862
+Trans Nzoia County     64 0.015625     0.0  0.0  1.0 0.125000
+
+==== health_source_gov_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     80 0.062500     0.0  0.0  1.0 0.243589
+     Crop farming     103 0.009709     0.0  0.0  1.0 0.098533
+ Livestock rearing      1 0.000000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0      NaN
+
+==== health_source_gov_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.016393     0.0  0.0  1.0 0.128037
+                       Mt Elgon     60 0.066667     0.0  0.0  1.0 0.251549
+               Trans-Nzoia West     64 0.015625     0.0  0.0  1.0 0.125000
+
+==== health_source_media_overall ====
+
+ count    mean  median  min  max      std
+ 185.0 0.12973     0.0  0.0  1.0 0.336918
+
+==== health_source_media_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.142857     0.0  0.0  1.0 0.351250
+  Male     52 0.096154     0.0  0.0  1.0 0.297678
+
+==== health_source_media_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.000000     0.0  0.0  0.0 0.000000
+    36-45     28 0.035714     0.0  0.0  1.0 0.188982
+    46-55     59 0.203390     0.0  0.0  1.0 0.405975
+      56+     79 0.139241     0.0  0.0  1.0 0.348409
+
+==== health_source_media_by_county_name ====
+
+       county_name  count    mean  median  min  max      std
+    Bungoma County    121 0.14876     0.0  0.0  1.0 0.357332
+Trans Nzoia County     64 0.09375     0.0  0.0  1.0 0.293785
+
+==== health_source_media_by_primary_livelihood ====
+
+primary_livelihood  count    mean  median  min  max      std
+  Crop & Livestock     80 0.10000     0.0  0.0  1.0 0.301893
+     Crop farming     103 0.15534     0.0  0.0  1.0 0.364000
+ Livestock rearing      1 0.00000     0.0  0.0  0.0      NaN
+   Other (specify)      1 0.00000     0.0  0.0  0.0      NaN
+
+==== health_source_media_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.131148     0.0  0.0  1.0 0.340363
+                       Mt Elgon     60 0.166667     0.0  0.0  1.0 0.375823
+               Trans-Nzoia West     64 0.093750     0.0  0.0  1.0 0.293785
+
+==== health_source_friend_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.059459     0.0  0.0  1.0 0.237124
+
+==== health_source_friend_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.060150     0.0  0.0  1.0 0.238664
+  Male     52 0.057692     0.0  0.0  1.0 0.235435
+
+==== health_source_friend_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.055556     0.0  0.0  1.0 0.235702
+    36-45     28 0.071429     0.0  0.0  1.0 0.262265
+    46-55     59 0.033898     0.0  0.0  1.0 0.182521
+      56+     79 0.075949     0.0  0.0  1.0 0.266610
+
+==== health_source_friend_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.066116     0.0  0.0  1.0 0.249517
+Trans Nzoia County     64 0.046875     0.0  0.0  1.0 0.213042
+
+==== health_source_friend_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max     std
+  Crop & Livestock     80 0.050000     0.0  0.0  1.0 0.21932
+     Crop farming     103 0.067961     0.0  0.0  1.0 0.25291
+ Livestock rearing      1 0.000000     0.0  0.0  0.0     NaN
+   Other (specify)      1 0.000000     0.0  0.0  0.0     NaN
+
+==== health_source_friend_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.065574     0.0  0.0  1.0 0.249590
+                       Mt Elgon     60 0.066667     0.0  0.0  1.0 0.251549
+               Trans-Nzoia West     64 0.046875     0.0  0.0  1.0 0.213042
+
+==== health_source_other_overall ====
+
+ count     mean  median  min  max      std
+ 185.0 0.010811     0.0  0.0  1.0 0.103692
+
+==== health_source_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    133 0.007519     0.0  0.0  1.0 0.086711
+  Male     52 0.019231     0.0  0.0  1.0 0.138675
+
+==== health_source_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      1 0.000000     0.0  0.0  0.0      NaN
+   26-35      18 0.055556     0.0  0.0  1.0 0.235702
+    36-45     28 0.035714     0.0  0.0  1.0 0.188982
+    46-55     59 0.000000     0.0  0.0  0.0 0.000000
+      56+     79 0.000000     0.0  0.0  0.0 0.000000
+
+==== health_source_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County    121 0.016529     0.0  0.0  1.0 0.128028
+Trans Nzoia County     64 0.000000     0.0  0.0  0.0 0.000000
+
+==== health_source_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max     std
+  Crop & Livestock     80 0.025     0.0  0.0  1.0 0.15711
+     Crop farming     103 0.000     0.0  0.0  0.0 0.00000
+ Livestock rearing      1 0.000     0.0  0.0  0.0     NaN
+   Other (specify)      1 0.000     0.0  0.0  0.0     NaN
+
+==== health_source_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     61 0.016393     0.0  0.0  1.0 0.128037
+                       Mt Elgon     60 0.016667     0.0  0.0  1.0 0.129099
+               Trans-Nzoia West     64 0.000000     0.0  0.0  0.0 0.000000
+
+==== stove_number_overall ====
+
+ count     mean  median  min  max      std
+ 140.0 1.014286     1.0  0.0  2.0 0.169031
+
+==== stove_number_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female    105 0.990476     1.0  0.0  1.0 0.097590
+  Male     35 1.085714     1.0  1.0  2.0 0.284029
+
+==== stove_number_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      0      NaN     NaN  NaN  NaN      NaN
+   26-35      10 1.000000     1.0  1.0  1.0 0.000000
+    36-45     19 1.000000     1.0  1.0  1.0 0.000000
+    46-55     51 1.019608     1.0  1.0  2.0 0.140028
+      56+     60 1.016667     1.0  0.0  2.0 0.224867
+
+==== stove_number_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     99 1.020202     1.0  0.0  2.0 0.201008
+Trans Nzoia County     41 1.000000     1.0  1.0  1.0 0.000000
+
+==== stove_number_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     67 1.014925     1.0  0.0  2.0 0.212670
+     Crop farming      71 1.014085     1.0  1.0  2.0 0.118678
+ Livestock rearing      1 1.000000     1.0  1.0  1.0      NaN
+   Other (specify)      1 1.000000     1.0  1.0  1.0      NaN
+
+==== stove_number_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     46 1.021739     1.0  1.0  2.0 0.147442
+                       Mt Elgon     53 1.018868     1.0  0.0  2.0 0.239436
+               Trans-Nzoia West     41 1.000000     1.0  1.0  1.0 0.000000
+
+==== stove_reason_broken_overall ====
+
+ count  mean  median  min  max      std
+   2.0   0.5     0.5  0.0  1.0 0.707107
+
+==== stove_reason_broken_by_gender ====
+
+gender  count  mean  median  min  max      std
+Female      2   0.5     0.5  0.0  1.0 0.707107
+  Male      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_broken_by_age_group ====
+
+age_group  count  mean  median  min  max      std
+    18-25      0   NaN     NaN  NaN  NaN      NaN
+   26-35       0   NaN     NaN  NaN  NaN      NaN
+    36-45      0   NaN     NaN  NaN  NaN      NaN
+    46-55      0   NaN     NaN  NaN  NaN      NaN
+      56+      2   0.5     0.5  0.0  1.0 0.707107
+
+==== stove_reason_broken_by_county_name ====
+
+       county_name  count  mean  median  min  max      std
+    Bungoma County      2   0.5     0.5  0.0  1.0 0.707107
+Trans Nzoia County      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_broken_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max      std
+  Crop & Livestock      0   NaN     NaN  NaN  NaN      NaN
+     Crop farming       2   0.5     0.5  0.0  1.0 0.707107
+ Livestock rearing      0   NaN     NaN  NaN  NaN      NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_broken_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max      std
+                         Bumula      2   0.5     0.5  0.0  1.0 0.707107
+                       Mt Elgon      0   NaN     NaN  NaN  NaN      NaN
+               Trans-Nzoia West      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_fuel_overall ====
+
+ count  mean  median  min  max  std
+   2.0   0.0     0.0  0.0  0.0  0.0
+
+==== stove_reason_fuel_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female      2   0.0     0.0  0.0  0.0  0.0
+  Male      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_fuel_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      0   NaN     NaN  NaN  NaN  NaN
+   26-35       0   NaN     NaN  NaN  NaN  NaN
+    36-45      0   NaN     NaN  NaN  NaN  NaN
+    46-55      0   NaN     NaN  NaN  NaN  NaN
+      56+      2   0.0     0.0  0.0  0.0  0.0
+
+==== stove_reason_fuel_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County      2   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_fuel_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock      0   NaN     NaN  NaN  NaN  NaN
+     Crop farming       2   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      0   NaN     NaN  NaN  NaN  NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_fuel_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula      2   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon      0   NaN     NaN  NaN  NaN  NaN
+               Trans-Nzoia West      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_pref_overall ====
+
+ count  mean  median  min  max      std
+   2.0   0.5     0.5  0.0  1.0 0.707107
+
+==== stove_reason_pref_by_gender ====
+
+gender  count  mean  median  min  max      std
+Female      2   0.5     0.5  0.0  1.0 0.707107
+  Male      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_pref_by_age_group ====
+
+age_group  count  mean  median  min  max      std
+    18-25      0   NaN     NaN  NaN  NaN      NaN
+   26-35       0   NaN     NaN  NaN  NaN      NaN
+    36-45      0   NaN     NaN  NaN  NaN      NaN
+    46-55      0   NaN     NaN  NaN  NaN      NaN
+      56+      2   0.5     0.5  0.0  1.0 0.707107
+
+==== stove_reason_pref_by_county_name ====
+
+       county_name  count  mean  median  min  max      std
+    Bungoma County      2   0.5     0.5  0.0  1.0 0.707107
+Trans Nzoia County      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_pref_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max      std
+  Crop & Livestock      0   NaN     NaN  NaN  NaN      NaN
+     Crop farming       2   0.5     0.5  0.0  1.0 0.707107
+ Livestock rearing      0   NaN     NaN  NaN  NaN      NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_pref_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max      std
+                         Bumula      2   0.5     0.5  0.0  1.0 0.707107
+                       Mt Elgon      0   NaN     NaN  NaN  NaN      NaN
+               Trans-Nzoia West      0   NaN     NaN  NaN  NaN      NaN
+
+==== stove_reason_small_overall ====
+
+ count  mean  median  min  max  std
+   2.0   0.0     0.0  0.0  0.0  0.0
+
+==== stove_reason_small_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female      2   0.0     0.0  0.0  0.0  0.0
+  Male      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_small_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      0   NaN     NaN  NaN  NaN  NaN
+   26-35       0   NaN     NaN  NaN  NaN  NaN
+    36-45      0   NaN     NaN  NaN  NaN  NaN
+    46-55      0   NaN     NaN  NaN  NaN  NaN
+      56+      2   0.0     0.0  0.0  0.0  0.0
+
+==== stove_reason_small_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County      2   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_small_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock      0   NaN     NaN  NaN  NaN  NaN
+     Crop farming       2   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      0   NaN     NaN  NaN  NaN  NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_small_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula      2   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon      0   NaN     NaN  NaN  NaN  NaN
+               Trans-Nzoia West      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_other_overall ====
+
+ count  mean  median  min  max  std
+   2.0   0.0     0.0  0.0  0.0  0.0
+
+==== stove_reason_other_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female      2   0.0     0.0  0.0  0.0  0.0
+  Male      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_other_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      0   NaN     NaN  NaN  NaN  NaN
+   26-35       0   NaN     NaN  NaN  NaN  NaN
+    36-45      0   NaN     NaN  NaN  NaN  NaN
+    46-55      0   NaN     NaN  NaN  NaN  NaN
+      56+      2   0.0     0.0  0.0  0.0  0.0
+
+==== stove_reason_other_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County      2   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_other_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock      0   NaN     NaN  NaN  NaN  NaN
+     Crop farming       2   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      0   NaN     NaN  NaN  NaN  NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN  NaN
+
+==== stove_reason_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula      2   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon      0   NaN     NaN  NaN  NaN  NaN
+               Trans-Nzoia West      0   NaN     NaN  NaN  NaN  NaN
+
+==== briquette_reason_material_overall ====
+
+ count     mean  median  min  max      std
+  31.0 0.516129     1.0  0.0  1.0 0.508001
+
+==== briquette_reason_material_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female     22 0.545455     1.0  0.0  1.0 0.509647
+  Male      9 0.444444     0.0  0.0  1.0 0.527046
+
+==== briquette_reason_material_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      0      NaN     NaN  NaN  NaN      NaN
+   26-35       5 0.200000     0.0  0.0  1.0 0.447214
+    36-45      4 0.750000     1.0  0.0  1.0 0.500000
+    46-55      8 0.500000     0.5  0.0  1.0 0.534522
+      56+     14 0.571429     1.0  0.0  1.0 0.513553
+
+==== briquette_reason_material_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     25 0.480000     0.0  0.0  1.0 0.509902
+Trans Nzoia County      6 0.666667     1.0  0.0  1.0 0.516398
+
+==== briquette_reason_material_by_primary_livelihood ====
+
+primary_livelihood  count    mean  median  min  max      std
+  Crop & Livestock     21 0.52381     1.0  0.0  1.0 0.511766
+     Crop farming      10 0.50000     0.5  0.0  1.0 0.527046
+ Livestock rearing      0     NaN     NaN  NaN  NaN      NaN
+   Other (specify)      0     NaN     NaN  NaN  NaN      NaN
+
+==== briquette_reason_material_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     15 0.400000     0.0  0.0  1.0 0.507093
+                       Mt Elgon     10 0.600000     1.0  0.0  1.0 0.516398
+               Trans-Nzoia West      6 0.666667     1.0  0.0  1.0 0.516398
+
+==== briquette_reason_time_overall ====
+
+ count     mean  median  min  max      std
+  31.0 0.225806     0.0  0.0  1.0 0.425024
+
+==== briquette_reason_time_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female     22 0.227273     0.0  0.0  1.0 0.428932
+  Male      9 0.222222     0.0  0.0  1.0 0.440959
+
+==== briquette_reason_time_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      0      NaN     NaN  NaN  NaN      NaN
+   26-35       5 0.200000     0.0  0.0  1.0 0.447214
+    36-45      4 0.000000     0.0  0.0  0.0 0.000000
+    46-55      8 0.250000     0.0  0.0  1.0 0.462910
+      56+     14 0.285714     0.0  0.0  1.0 0.468807
+
+==== briquette_reason_time_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     25 0.240000     0.0  0.0  1.0 0.435890
+Trans Nzoia County      6 0.166667     0.0  0.0  1.0 0.408248
+
+==== briquette_reason_time_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     21 0.190476     0.0  0.0  1.0 0.402374
+     Crop farming      10 0.300000     0.0  0.0  1.0 0.483046
+ Livestock rearing      0      NaN     NaN  NaN  NaN      NaN
+   Other (specify)      0      NaN     NaN  NaN  NaN      NaN
+
+==== briquette_reason_time_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     15 0.266667     0.0  0.0  1.0 0.457738
+                       Mt Elgon     10 0.200000     0.0  0.0  1.0 0.421637
+               Trans-Nzoia West      6 0.166667     0.0  0.0  1.0 0.408248
+
+==== briquette_reason_equipment_overall ====
+
+ count     mean  median  min  max     std
+  31.0 0.193548     0.0  0.0  1.0 0.40161
+
+==== briquette_reason_equipment_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female     22 0.181818     0.0  0.0  1.0 0.394771
+  Male      9 0.222222     0.0  0.0  1.0 0.440959
+
+==== briquette_reason_equipment_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      0      NaN     NaN  NaN  NaN      NaN
+   26-35       5 0.400000     0.0  0.0  1.0 0.547723
+    36-45      4 0.250000     0.0  0.0  1.0 0.500000
+    46-55      8 0.250000     0.0  0.0  1.0 0.462910
+      56+     14 0.071429     0.0  0.0  1.0 0.267261
+
+==== briquette_reason_equipment_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     25 0.200000     0.0  0.0  1.0 0.408248
+Trans Nzoia County      6 0.166667     0.0  0.0  1.0 0.408248
+
+==== briquette_reason_equipment_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     21 0.238095     0.0  0.0  1.0 0.436436
+     Crop farming      10 0.100000     0.0  0.0  1.0 0.316228
+ Livestock rearing      0      NaN     NaN  NaN  NaN      NaN
+   Other (specify)      0      NaN     NaN  NaN  NaN      NaN
+
+==== briquette_reason_equipment_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     15 0.266667     0.0  0.0  1.0 0.457738
+                       Mt Elgon     10 0.100000     0.0  0.0  1.0 0.316228
+               Trans-Nzoia West      6 0.166667     0.0  0.0  1.0 0.408248
+
+==== briquette_reason_cost_overall ====
+
+ count  mean  median  min  max  std
+  31.0   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_cost_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female     22   0.0     0.0  0.0  0.0  0.0
+  Male      9   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_cost_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      0   NaN     NaN  NaN  NaN  NaN
+   26-35       5   0.0     0.0  0.0  0.0  0.0
+    36-45      4   0.0     0.0  0.0  0.0  0.0
+    46-55      8   0.0     0.0  0.0  0.0  0.0
+      56+     14   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_cost_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County     25   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County      6   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_cost_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     21   0.0     0.0  0.0  0.0  0.0
+     Crop farming      10   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      0   NaN     NaN  NaN  NaN  NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN  NaN
+
+==== briquette_reason_cost_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     15   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     10   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West      6   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_benefit_overall ====
+
+ count  mean  median  min  max  std
+  31.0   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_benefit_by_gender ====
+
+gender  count  mean  median  min  max  std
+Female     22   0.0     0.0  0.0  0.0  0.0
+  Male      9   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_benefit_by_age_group ====
+
+age_group  count  mean  median  min  max  std
+    18-25      0   NaN     NaN  NaN  NaN  NaN
+   26-35       5   0.0     0.0  0.0  0.0  0.0
+    36-45      4   0.0     0.0  0.0  0.0  0.0
+    46-55      8   0.0     0.0  0.0  0.0  0.0
+      56+     14   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_benefit_by_county_name ====
+
+       county_name  count  mean  median  min  max  std
+    Bungoma County     25   0.0     0.0  0.0  0.0  0.0
+Trans Nzoia County      6   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_benefit_by_primary_livelihood ====
+
+primary_livelihood  count  mean  median  min  max  std
+  Crop & Livestock     21   0.0     0.0  0.0  0.0  0.0
+     Crop farming      10   0.0     0.0  0.0  0.0  0.0
+ Livestock rearing      0   NaN     NaN  NaN  NaN  NaN
+   Other (specify)      0   NaN     NaN  NaN  NaN  NaN
+
+==== briquette_reason_benefit_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count  mean  median  min  max  std
+                         Bumula     15   0.0     0.0  0.0  0.0  0.0
+                       Mt Elgon     10   0.0     0.0  0.0  0.0  0.0
+               Trans-Nzoia West      6   0.0     0.0  0.0  0.0  0.0
+
+==== briquette_reason_other_overall ====
+
+ count     mean  median  min  max      std
+  31.0 0.096774     0.0  0.0  1.0 0.300537
+
+==== briquette_reason_other_by_gender ====
+
+gender  count     mean  median  min  max      std
+Female     22 0.090909     0.0  0.0  1.0 0.294245
+  Male      9 0.111111     0.0  0.0  1.0 0.333333
+
+==== briquette_reason_other_by_age_group ====
+
+age_group  count     mean  median  min  max      std
+    18-25      0      NaN     NaN  NaN  NaN      NaN
+   26-35       5 0.200000     0.0  0.0  1.0 0.447214
+    36-45      4 0.000000     0.0  0.0  0.0 0.000000
+    46-55      8 0.000000     0.0  0.0  0.0 0.000000
+      56+     14 0.142857     0.0  0.0  1.0 0.363137
+
+==== briquette_reason_other_by_county_name ====
+
+       county_name  count     mean  median  min  max      std
+    Bungoma County     25 0.080000     0.0  0.0  1.0 0.276887
+Trans Nzoia County      6 0.166667     0.0  0.0  1.0 0.408248
+
+==== briquette_reason_other_by_primary_livelihood ====
+
+primary_livelihood  count     mean  median  min  max      std
+  Crop & Livestock     21 0.095238     0.0  0.0  1.0 0.300793
+     Crop farming      10 0.100000     0.0  0.0  1.0 0.316228
+ Livestock rearing      0      NaN     NaN  NaN  NaN      NaN
+   Other (specify)      0      NaN     NaN  NaN  NaN      NaN
+
+==== briquette_reason_other_by_sublocation_bungoma_trans_nzoia ====
+
+sublocation_bungoma_trans_nzoia  count     mean  median  min  max      std
+                         Bumula     15 0.066667     0.0  0.0  1.0 0.258199
+                       Mt Elgon     10 0.100000     0.0  0.0  1.0 0.316228
+               Trans-Nzoia West      6 0.166667     0.0  0.0  1.0 0.408248
+
+
+Adoption Rates by Gender (%):
+
+        agroforestry_adopted  drought_varieties_adopted  \
+gender                                                    
+Female                  97.2                       88.8   
+Male                    98.1                       88.5   
+
+        crop_rotation_adopted  mulching_adopted  composting_adopted  \
+gender                                                                
+Female                   99.3              87.9                97.9   
+Male                     98.1              96.2               100.0   
+
+        water_harvesting_adopted  drip_irrigation_adopted  \
+gender                                                      
+Female                      99.3                     78.2   
+Male                       100.0                     73.1   
+
+        kitchen_garden_adopted  food_forest_adopted  soil_conservation_adopted  
+gender                                                                          
+Female                    98.6                 95.8                       91.6  
+Male                     100.0                 96.2                       94.2  
+
+Adoption Rates by County (%):
+
+                    agroforestry_adopted  drought_varieties_adopted  \
+county_name                                                           
+Bungoma County                      98.4                       90.8   
+Trans Nzoia County                  95.4                       84.6   
+
+                    crop_rotation_adopted  mulching_adopted  \
+county_name                                                   
+Bungoma County                       99.2              92.1   
+Trans Nzoia County                   98.5              86.2   
+
+                    composting_adopted  water_harvesting_adopted  \
+county_name                                                        
+Bungoma County                    99.2                     100.0   
+Trans Nzoia County                96.9                      98.5   
+
+                    drip_irrigation_adopted  kitchen_garden_adopted  \
+county_name                                                           
+Bungoma County                         76.0                    99.2   
+Trans Nzoia County                     78.5                    98.5   
+
+                    food_forest_adopted  soil_conservation_adopted  
+county_name                                                         
+Bungoma County                     96.2                       93.1  
+Trans Nzoia County                 95.4                       90.8  

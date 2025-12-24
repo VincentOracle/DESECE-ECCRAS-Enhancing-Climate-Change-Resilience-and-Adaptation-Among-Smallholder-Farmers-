@@ -1,0 +1,58 @@
+PHASE 3 - EFFECTIVENESS (EQ1 & EQ2) SUMMARY
+
+1) Overall adoption rates (practice / n_resp / n_adopted / adoption_rate_pct):
+ - agroforestry_adopted: n_resp=194, n_adopted=189, adoption_rate_pct=96.92% (target 80.0%)
+ - drought_varieties_adopted: n_resp=195, n_adopted=173, adoption_rate_pct=88.72% (target 80.0%)
+ - crop_rotation_adopted: n_resp=195, n_adopted=193, adoption_rate_pct=98.97% (target 80.0%)
+ - mulching_adopted: n_resp=192, n_adopted=173, adoption_rate_pct=88.72% (target 80.0%)
+ - composting_adopted: n_resp=195, n_adopted=192, adoption_rate_pct=98.46% (target 80.0%)
+ - water_harvesting_adopted: n_resp=195, n_adopted=194, adoption_rate_pct=99.49% (target 80.0%)
+ - drip_irrigation_adopted: n_resp=194, n_adopted=149, adoption_rate_pct=76.41% (target 80.0%)
+ - kitchen_garden_adopted: n_resp=195, n_adopted=193, adoption_rate_pct=98.97% (target 80.0%)
+ - food_forest_adopted: n_resp=195, n_adopted=187, adoption_rate_pct=95.90% (target 80.0%)
+ - soil_conservation_adopted: n_resp=195, n_adopted=180, adoption_rate_pct=92.31% (target 80.0%)
+
+2) Wilcoxon signed-rank test for income (Est Income 2021 vs 2025):
+ - n_pairs = 117, statistic = 2062.0000, p-value = 4.6763e-03
+ - Interpretation: Significant difference between 2021 and 2025 incomes (p < 0.05).
+
+3) Chi-square tests (practice adoption by demographic)
+ - drought_varieties_adopted_bin by age_group: chi2=12.98, p=0.0114 (SIGNIFICANT), n=195
+ - soil_conservation_adopted_bin by age_group: chi2=9.10, p=0.0586 (not significant), n=195
+ - mulching_adopted_bin by age_group: chi2=6.89, p=0.1416 (not significant), n=192
+ - mulching_adopted_bin by gender: chi2=2.07, p=0.1502 (not significant), n=192
+ - mulching_adopted_bin by county_name: chi2=1.12, p=0.2909 (not significant), n=192
+ - drought_varieties_adopted_bin by county_name: chi2=1.08, p=0.2982 (not significant), n=195
+ - agroforestry_adopted_bin by county_name: chi2=0.63, p=0.4285 (not significant), n=194
+ - drip_irrigation_adopted_bin by age_group: chi2=3.78, p=0.4368 (not significant), n=194
+ - food_forest_adopted_bin by age_group: chi2=3.71, p=0.4468 (not significant), n=195
+ - composting_adopted_bin by county_name: chi2=0.38, p=0.5371 (not significant), n=195
+ - agroforestry_adopted_bin by age_group: chi2=3.10, p=0.5419 (not significant), n=194
+ - drip_irrigation_adopted_bin by gender: chi2=0.31, p=0.5808 (not significant), n=194
+ - composting_adopted_bin by gender: chi2=0.16, p=0.6930 (not significant), n=195
+ - water_harvesting_adopted_bin by county_name: chi2=0.13, p=0.7230 (not significant), n=195
+ - soil_conservation_adopted_bin by gender: chi2=0.09, p=0.7612 (not significant), n=195
+ - soil_conservation_adopted_bin by county_name: chi2=0.08, p=0.7756 (not significant), n=195
+ - drip_irrigation_adopted_bin by county_name: chi2=0.04, p=0.8352 (not significant), n=194
+ - water_harvesting_adopted_bin by age_group: chi2=1.30, p=0.8612 (not significant), n=195
+ - composting_adopted_bin by age_group: chi2=1.12, p=0.8904 (not significant), n=195
+ - crop_rotation_adopted_bin by age_group: chi2=0.73, p=0.9479 (not significant), n=195
+ - kitchen_garden_adopted_bin by age_group: chi2=0.73, p=0.9479 (not significant), n=195
+ - kitchen_garden_adopted_bin by gender: chi2=0.00, p=0.9573 (not significant), n=195
+ - crop_rotation_adopted_bin by county_name: chi2=0.00, p=1.0000 (not significant), n=195
+ - kitchen_garden_adopted_bin by county_name: chi2=0.00, p=1.0000 (not significant), n=195
+ - food_forest_adopted_bin by gender: chi2=0.00, p=1.0000 (not significant), n=195
+ - crop_rotation_adopted_bin by gender: chi2=0.00, p=1.0000 (not significant), n=195
+ - food_forest_adopted_bin by county_name: chi2=0.00, p=1.0000 (not significant), n=195
+ - drought_varieties_adopted_bin by gender: chi2=0.00, p=1.0000 (not significant), n=195
+ - water_harvesting_adopted_bin by gender: chi2=0.00, p=1.0000 (not significant), n=195
+ - agroforestry_adopted_bin by gender: chi2=0.00, p=1.0000 (not significant), n=194
+
+4) Adoption heatmap saved as:
+ - C:\Users\Hp\Downloads\ECCRAS_Evaluation_Final_Phase3\adoption_heatmap.png
+ - C:\Users\Hp\Downloads\ECCRAS_Evaluation_Final_Phase3\adoption_heatmap.svg
+
+5) Guidance / Next steps:
+ - For practices with low adoption relative to target, explore B20/B21 (enablers & constraints).
+ - For practices showing significant chi-square by gender/age, consider tailored outreach to under-adopting groups.
+ - If Wilcoxon significant, triangulate with qualitative data for causal interpretation.
