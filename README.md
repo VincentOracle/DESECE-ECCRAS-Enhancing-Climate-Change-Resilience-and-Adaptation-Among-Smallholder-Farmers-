@@ -272,5 +272,6 @@ For questions about this analysis or the ECCRAS project, contact DataUpskill Ltd
 ---
 
 **Last Updated:** 20 November 2025  
-**Analysis Completed:** Project Endline Evaluation by Were Vincent Ouma 
+**Analysis Completed:** Project Endline Evaluation by Were Vincent Ouma
+
 **Citation:** DataUpskill Ltd. (2024). ECCRAS Project Endline Evaluation: Data Analysis Report.
