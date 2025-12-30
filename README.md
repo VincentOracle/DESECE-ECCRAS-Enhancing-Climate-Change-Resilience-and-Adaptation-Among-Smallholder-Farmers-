@@ -1,6 +1,6 @@
 # The DESECE_ECCRAS Project: Data Analysis for Endline Evaluations
 
-## 🛠️ Tools & Technologies Used in This project
+## 🛠️ Tools & Technologies Used
 
 <div align="center">
 
