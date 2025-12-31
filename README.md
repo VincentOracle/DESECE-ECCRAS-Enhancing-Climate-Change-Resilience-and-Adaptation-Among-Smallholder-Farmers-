@@ -1,4 +1,4 @@
-# The DESECE_ECCRAS Project: Data Analysis for Endline Evaluations
+# The DESECE_ECCRAS Project: Data Analysis for Endline Evaluation
 
 ## 🛠️ Tools & Technologies Used
 
